@@ -1,4 +1,4 @@
-# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)(https://github.com/sindresorhus/awesome)
+# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **NOTE**: This awesome page is brand new! Please help improve this list by sending your PR's suggesting categories and supply the first entries. Thank you so much :)
 
@@ -24,4 +24,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [aschrijver](https://github.com/aschrijver) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [aschrijver](https://github.com/aschrijver) (the maintainer) has waived all copyright and related or neighboring rights to this work.
