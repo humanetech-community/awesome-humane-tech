@@ -10,18 +10,27 @@ Tech and social media is having a big impact on our society. While many innovati
 
 This list focuses on (mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](contributing.md) before sending PR's.
 
+## Ethics
+
+- [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) - References about Machine Learning and Data Science discrimination, bias and ethics.
+- [WikiTruth](https://wikitruth.co/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
+
 ## Privacy
 
 - [Privacy Badger](https://www.eff.org/privacybadger) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/EFForg/privacybadger) - Privacy Badger by Electronic Frontier Foundation blocks spying ads and invisible trackers.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
+- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency
 
 ## Freedom
 
-* ![Awesome](https://awesome.re/badge.svg) [Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers. 
+- ![Awesome](https://awesome.re/badge.svg) [Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
+- [GlobaLeaks](https://www.globaleaks.org/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 
 ## Health
 
-* [Stanford HabitLab](https://habitlab.stanford.edu/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/habitlab/habitlab) - Change your online habits, set goals, try interventions, view progress.
+- [Stanford HabitLab](https://habitlab.stanford.edu/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/habitlab/habitlab) - Change your online habits, set goals, try interventions, view progress.
+- [redshift](http://jonls.dk/redshift) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
+- [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/slgobinath/SafeEyes) - Safe Eyes is a Free and Open Source tool for Linux users to reduce and prevent repetitive strain injury (RSI).
 
 ## Contributing
 
