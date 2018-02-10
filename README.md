@@ -16,7 +16,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Health
 
-* [Stanford HabitLab](https://habitlab.stanford.edu/) - Change your online habits, set goals, try interventions, view progress (![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) [code](https://github.com/habitlab/habitlab))
+* [Stanford HabitLab](https://habitlab.stanford.edu/) - Change your online habits, set goals, try interventions, view progress [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) (https://github.com/habitlab/habitlab)]
 
 ## Contributing
 
