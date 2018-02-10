@@ -24,6 +24,10 @@ This list focuses on (mostly open-source) projects that are directly related to 
 ## Freedom
 
 - ![Awesome](https://awesome.re/badge.svg) [Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
+- ![Awesome](https://awesome.re/badge.svg) [Activism Tools](https://github.com/drewrwilson/toolsforactivism) - A curated list of awesome digital tools for activism.
+- ![Awesome](https://awesome.re/badge.svg) [Decentralized](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P (peer-to-peer), and distributed platforms and applications ("dapps").
+- ![Awesome](https://awesome.re/badge.svg) [Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
+- [Alternative Internet](https://redecentralize.github.io/alternative-internet/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [GlobaLeaks](https://www.globaleaks.org/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 
 ## Health
