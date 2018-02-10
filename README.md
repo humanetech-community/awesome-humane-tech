@@ -17,7 +17,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Freedom
 
-[Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) [![Awesome](https://awesome.re/badge.svg)] - Locally hosting and managing applications instead of renting from SaaS providers. 
+* ![Awesome](https://awesome.re/badge.svg) [Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers. 
 
 ## Health
 
