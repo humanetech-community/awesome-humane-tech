@@ -12,11 +12,16 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Privacy
 
-## Personal freedom
+- [Privacy Badger](https://www.eff.org/privacybadger) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/EFForg/privacybadger) - Privacy Badger by Electronic Frontier Foundation blocks spying ads and invisible trackers.
+- [Exodus Privacy](https://exodus-privacy.eu.org/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
+
+## Freedom
+
+[Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) [![Awesome](https://awesome.re/badge.svg)] - Locally hosting and managing applications instead of renting from SaaS providers. 
 
 ## Health
 
-* [Stanford HabitLab](https://habitlab.stanford.edu/) - Change your online habits, set goals, try interventions, view progress [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/habitlab/habitlab)
+* [Stanford HabitLab](https://habitlab.stanford.edu/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/habitlab/habitlab) - Change your online habits, set goals, try interventions, view progress.
 
 ## Contributing
 
