@@ -13,12 +13,12 @@ This list focuses on (mostly open-source) projects that are directly related to 
 ## Ethics
 
 - [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) - Machine Learning and Data Science discrimination, bias and ethics.
-- [WikiTruth](https://wikitruth.co/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
+- [WikiTruth](https://wikitruth.co/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
 
 ## Privacy
 
-- [Privacy Badger](https://www.eff.org/privacybadger) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/EFForg/privacybadger) - Privacy Badger by Electronic Frontier Foundation blocks spying ads and invisible trackers.
-- [Exodus Privacy](https://exodus-privacy.eu.org/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
+- [Privacy Badger](https://www.eff.org/privacybadger) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/EFForg/privacybadger) - Privacy Badger by Electronic Frontier Foundation blocks spying ads and invisible trackers.
+- [Exodus Privacy](https://exodus-privacy.eu.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 
 ## Freedom
@@ -27,14 +27,15 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - ![Awesome](https://awesome.re/badge.svg) [Decentralized](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
 - ![Awesome](https://awesome.re/badge.svg) [Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
 - ![Awesome](https://awesome.re/badge.svg) [Activism Tools](https://github.com/drewrwilson/toolsforactivism) - A curated list of awesome digital tools for activism.
-- [Alternative Internet](https://redecentralize.github.io/alternative-internet/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-- [GlobaLeaks](https://www.globaleaks.org/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
+- [Alternative Internet](https://redecentralize.github.io/alternative-internet/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+- [GlobaLeaks](https://www.globaleaks.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 
 ## Health
 
-- [Stanford HabitLab](https://habitlab.stanford.edu/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/habitlab/habitlab) - Change your online habits, set goals, try interventions, view progress.
-- [redshift](http://jonls.dk/redshift) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
-- [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/slgobinath/SafeEyes) - Safe Eyes is a tool for Linux users to reduce and prevent repetitive strain injury (RSI).
+- [Stanford HabitLab](https://habitlab.stanford.edu/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/habitlab/habitlab) - Change your online habits, set goals, try interventions, view progress.
+- [redshift](http://jonls.dk/redshift) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
+- [Safe Eyes](http://slgobinath.github.io/SafeEyes/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/slgobinath/SafeEyes) - Safe Eyes is a tool for Linux users to reduce and prevent repetitive strain injury (RSI).
+- [Prisma Care](https://prisma.care/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/Prisma/mobile-app) - Mobile app that strengthens the relationship between people with memory loss and people close to them.
 
 ## Contributing
 
