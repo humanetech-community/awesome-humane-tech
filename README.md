@@ -1,6 +1,6 @@
 # Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**NOTE**: This awesome page is brand new! Please help improve this list by sending your PR's suggesting categories and supply the first entries. Thank you so much :)
+**NOTE**: This awesome page is brand new! Please help improve this list by sending your PR's suggesting categories and supply additional entries. Thank you so much :)
 
 ## About this list
 
@@ -21,12 +21,17 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Exodus Privacy](https://exodus-privacy.eu.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 
+## Social networks
+
+- [Mastodon](https://joinmastodon.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
+- [Diaspora](https://diasporafoundation.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+- [Humnub](http://www.humhub.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/humhub/humhub) - A feature rich and highly flexible open-source Social Network Kit written in PHP.
+- [Patchwork](https://www.scuttlebutt.nz/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+- [Pump.io](http://pump.io/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/pump-io/pump.io) - A stream server that does most of what people really want from a social network.
+- [Voten](https://voten.co/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/voten-co/voten) - An open-source, beautiful, highly customizable yet deadly simple, and warm community.
+
 ## Freedom
 
-- ![Awesome](https://awesome.re/badge.svg) [Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
-- ![Awesome](https://awesome.re/badge.svg) [Decentralized](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
-- ![Awesome](https://awesome.re/badge.svg) [Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
-- ![Awesome](https://awesome.re/badge.svg) [Activism Tools](https://github.com/drewrwilson/toolsforactivism) - A curated list of awesome digital tools for activism.
 - [Alternative Internet](https://redecentralize.github.io/alternative-internet/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [GlobaLeaks](https://www.globaleaks.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 
@@ -45,6 +50,13 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 - [Mindfulness at the Computer](https://mindfulness-at-the-computer.github.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer) - Helps you stay mindful of your breathing while using your computer.
 - [Breathe](http://breatheforpebble.tk/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cheeseisdisgusting/exhale) - Take a moment to breathe. A Pebble app for breathing, written in C.
+
+## Related awesomeness
+
+- ![Awesome](https://awesome.re/badge.svg) [Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
+- ![Awesome](https://awesome.re/badge.svg) [Decentralized](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
+- ![Awesome](https://awesome.re/badge.svg) [Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
+- ![Awesome](https://awesome.re/badge.svg) [Activism Tools](https://github.com/drewrwilson/toolsforactivism) - A curated list of awesome digital tools for activism.
 
 ## Contributing
 
