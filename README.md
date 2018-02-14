@@ -30,12 +30,21 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Alternative Internet](https://redecentralize.github.io/alternative-internet/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [GlobaLeaks](https://www.globaleaks.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 
+## Gamification
+
+- [Security Belt](https://github.com/otto-de/security-belt) - A framework for improving the IT-Security of your teams through gamification.
+
 ## Health
 
 - [Stanford HabitLab](https://habitlab.stanford.edu/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/habitlab/habitlab) - Change your online habits, set goals, try interventions, view progress.
 - [redshift](http://jonls.dk/redshift) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [Safe Eyes](http://slgobinath.github.io/SafeEyes/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/slgobinath/SafeEyes) - Safe Eyes is a tool for Linux users to reduce and prevent repetitive strain injury (RSI).
 - [Prisma Care](https://prisma.care/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/Prisma/mobile-app) - App that strengthens the relationship between people with memory loss and people close to them.
+
+## Mindfulness
+
+- [Mindfulness at the Computer](https://mindfulness-at-the-computer.github.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer) - Helps you stay mindful of your breathing while using your computer.
+- [Breathe](http://breatheforpebble.tk/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cheeseisdisgusting/exhale) - Take a moment to breathe. A Pebble app for breathing, written in C.
 
 ## Contributing
 
