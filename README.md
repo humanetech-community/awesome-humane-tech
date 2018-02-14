@@ -27,8 +27,8 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Diaspora](https://diasporafoundation.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - [Humnub](http://www.humhub.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/humhub/humhub) - A feature rich and highly flexible open-source Social Network Kit written in PHP.
 - [Patchwork](https://www.scuttlebutt.nz/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
-- [Pump.io](http://pump.io/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/pump-io/pump.io) - A stream server that does most of what people really want from a social network.
-- [Voten](https://voten.co/) [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/voten-co/voten) - An open-source, beautiful, highly customizable yet deadly simple, and warm community.
+- [Pump.io](http://pump.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/pump-io/pump.io) - A stream server that does most of what people really want from a social network.
+- [Voten](https://voten.co/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/voten-co/voten) - An open-source, beautiful, highly customizable yet deadly simple, and warm community.
 
 ## Freedom
 
