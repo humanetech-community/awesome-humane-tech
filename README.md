@@ -51,6 +51,10 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Mindfulness at the Computer](https://mindfulness-at-the-computer.github.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer) - Helps you stay mindful of your breathing while using your computer.
 - [Breathe](http://breatheforpebble.tk/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cheeseisdisgusting/exhale) - Take a moment to breathe. A Pebble app for breathing, written in C.
 
+## Happiness
+
+- [Happy DB](https://rit-public.github.io/HappyDB/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/rit-public/HappyDB) - HappyDB is a corpus of 100,000+ crowd-sourced happy moments.
+
 ## Related awesomeness
 
 - ![Awesome](https://awesome.re/badge.svg) [Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
