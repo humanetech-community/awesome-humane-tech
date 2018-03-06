@@ -12,7 +12,6 @@
 - [Gamification](#gamification)
 - [Health](#health)
 - [Mindfulness](#mindfulness)
-
 - [Related awesomeness](#related-awesomeness)
 - [Contributing](#contributing)
 - [License](#license)
