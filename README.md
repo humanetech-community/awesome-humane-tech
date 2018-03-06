@@ -14,6 +14,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 - [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) - Machine Learning and Data Science discrimination, bias and ethics.
 - [WikiTruth](https://wikitruth.co/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
+- [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - An ethics oath for programmers, comparable to the Hippocratic Oath.
 
 ## Privacy
 
