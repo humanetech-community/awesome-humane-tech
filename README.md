@@ -1,6 +1,21 @@
 # Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**NOTE**: This awesome page is brand new! Please help improve this list by sending your PR's suggesting categories and supply additional entries. Thank you so much :)
+**NOTE**: This awesome page is new! Please help improve this list by sending your PR's suggesting categories and supply additional entries. Thank you so much :)
+
+## Contents
+
+- [About this list](#about-this-list)
+- [Ethics](#ethics)
+- [Privacy](#privacy)
+- [Social networks](#social-networks)
+- [Freedom](#freedom)
+- [Gamification](#gamification)
+- [Health](#health)
+- [Mindfulness](#mindfulness)
+
+- [Related awesomeness](#related-awesomeness)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## About this list
 
