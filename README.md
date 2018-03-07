@@ -63,6 +63,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [redshift](http://jonls.dk/redshift) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [Safe Eyes](http://slgobinath.github.io/SafeEyes/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/slgobinath/SafeEyes) - Safe Eyes is a tool for Linux users to reduce and prevent repetitive strain injury (RSI).
 - [Prisma Care](https://prisma.care/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/Prisma/mobile-app) - App that strengthens the relationship between people with memory loss and people close to them.
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
 ## Mindfulness
 
