@@ -1,4 +1,4 @@
-# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://humanetech.com)
 
 **NOTE**: This awesome page is new! Please help improve this list by sending your PR's suggesting categories and supply additional entries. Thank you so much :)
 
