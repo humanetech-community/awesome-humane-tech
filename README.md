@@ -45,6 +45,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Pump.io](http://pump.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/pump-io/pump.io) - A stream server that does most of what people really want from a social network.
 - [Voten](https://voten.co/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/voten-co/voten) - An open-source, beautiful, highly customizable yet deadly simple, and warm community.
 - [Socialhome](https://socialhome.network/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/jaywink/socialhome) - A federated personal profile with social networking functionality.
+- [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/bengrosser/facebook-demetricator) - A web browser extension that removes all the metrics from the Facebook interface.
 
 ## Freedom
 
