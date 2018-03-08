@@ -35,6 +35,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Privacy Badger](https://www.eff.org/privacybadger) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/EFForg/privacybadger) - Privacy Badger by Electronic Frontier Foundation blocks spying ads and invisible trackers.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
+- [Signal](https://www.signal.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/signalapp) - Signal is a messaging app for simple private communication with friends.
 
 ## Social networks
 
