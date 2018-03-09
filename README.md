@@ -18,7 +18,7 @@
 
 ## About this list
 
-Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech/problem), a world-class team of deeply concerned former tech insiders and CEOs has created the [Center of Humane Technology](https://humanetech.com). A community and website where you'll find solutions and best-practices!
+Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech/problem), a world-class team of deeply concerned former tech insiders and CEOs have created [The Center of Humane Technology](https://humanetech.com). A community and website where you'll find solutions and best-practices!
 
 > Reversing the digital attention crisis and realigning technology with humanity's best interests
 
