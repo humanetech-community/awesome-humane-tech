@@ -36,6 +36,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Exodus Privacy](https://exodus-privacy.eu.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 - [Signal](https://www.signal.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/signalapp) - Signal is a messaging app for simple private communication with friends.
+- [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient wide-spectrum blocker for Chromium and Firefox. Fast and lean.
 
 ## Social networks
 
