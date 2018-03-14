@@ -48,6 +48,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Voten](https://voten.co/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/voten-co/voten) - An open-source, beautiful, highly customizable yet deadly simple, and warm community.
 - [Socialhome](https://socialhome.network/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/jaywink/socialhome) - A federated personal profile with social networking functionality.
 - [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/bengrosser/facebook-demetricator) - A web browser extension that removes all the metrics from the Facebook interface.
+- [Twitter Demetricator](https://bengrosser.com/projects/facebook-demetricator/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/bengrosser/twitter-demetricator) - A web browser extension that removes all the metrics on Twitter.
 
 ## Freedom
 
