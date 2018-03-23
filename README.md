@@ -79,6 +79,10 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 - [Happy DB](https://rit-public.github.io/HappyDB/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/rit-public/HappyDB) - HappyDB is a corpus of 100,000+ crowd-sourced happy moments.
 
+## Awareness
+
+- [Data Selfie](https://dataselfie.it) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (read [faq](https://dataselfie.it/#/faq) and [privacy](https://dataselfie.it/#/privacy) before using).
+
 ## Related awesomeness
 
 - ![Awesome](https://awesome.re/badge.svg) [Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
