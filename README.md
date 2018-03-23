@@ -83,6 +83,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 ## Awareness
 
 - [Data Selfie](https://dataselfie.it) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (read [faq](https://dataselfie.it/#/faq) and [privacy](https://dataselfie.it/#/privacy) before using).
+- [Chomper](https://addictedto.tech/chomper/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/aniketpanjwani/chomper) - Command-line internet blocker for the Linux desktop.
 
 ## Related awesomeness
 
