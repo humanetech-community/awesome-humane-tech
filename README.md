@@ -52,6 +52,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Socialhome](https://socialhome.network/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/jaywink/socialhome) - A federated personal profile with social networking functionality.
 - [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/bengrosser/facebook-demetricator) - A web browser extension that removes all the metrics from the Facebook interface.
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/bengrosser/twitter-demetricator) - A web browser extension that removes all the metrics on Twitter.
+- [Mozilla Contain-Facebook](https://github.com/mozilla/contain-facebook) - Firefox plugin to prevent tracking outside of the Facebook website via 3rd-party cookies.
 
 ## Freedom
 
