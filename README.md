@@ -36,11 +36,12 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Privacy Badger](https://www.eff.org/privacybadger) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/EFForg/privacybadger) - Privacy Badger by Electronic Frontier Foundation blocks spying ads and invisible trackers.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
 - [Exodify](https://github.com/FacettsOpen/exodify) - Wondering if an app is tracking you? Now you can see it directly in the Play store.
-- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
+- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 - [Signal](https://www.signal.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/signalapp) - Signal is a messaging app for simple private communication with friends.
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient wide-spectrum blocker for Chromium and Firefox. Fast and lean.
 - [ConsentCookie](https://www.consentcookie.nl/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/humanswitch/consentcookie) - Customizable script that allow users to opt-in for cookies on a case-by-case basis.
 - [Mozilla Contain-Facebook](https://github.com/mozilla/contain-facebook) - Firefox plugin to prevent tracking outside of the Facebook website via 3rd-party cookies.
+- [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
 
 ## Social networks
 
