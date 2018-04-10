@@ -78,6 +78,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 - [Mindfulness at the Computer](https://mindfulness-at-the-computer.github.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer) - Helps you stay mindful of your breathing while using your computer.
 - [Breathe](http://breatheforpebble.tk/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cheeseisdisgusting/exhale) - Take a moment to breathe. A Pebble app for breathing, written in C.
+- [Do Nothing for 2 Minutes](http://www.donothingfor2minutes.com/) - A relaxing website which encourages visitors to do nothing for two minutes. Very effective if you set up your browser to automatically redirect here from time-wasting websites.
 
 ## Happiness
 
