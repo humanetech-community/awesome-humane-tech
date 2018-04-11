@@ -42,6 +42,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [ConsentCookie](https://www.consentcookie.nl/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/humanswitch/consentcookie) - Customizable script that allow users to opt-in for cookies on a case-by-case basis.
 - [Mozilla Contain-Facebook](https://github.com/mozilla/contain-facebook) - Firefox plugin to prevent tracking outside of the Facebook website via 3rd-party cookies.
 - [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
+- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 
 ## Social networks
 
