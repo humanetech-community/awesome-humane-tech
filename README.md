@@ -45,6 +45,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Hosts](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 - [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
+- [SilverDog](https://github.com/ubeacsec/Silverdog) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/humanswitch/consentcookie) - An audio firewall to block ultrasound tracking applications.
 
 ## Social networks
 
