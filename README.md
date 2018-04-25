@@ -47,6 +47,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
 - [SilverDog](http://ubeacsec.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ubeacsec/Silverdog) - An audio firewall to block ultrasound tracking applications.
 - [Matomo](http://matomo.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/matomo) - The leading open alternative to Google Analytics that gives you full control over your data.
+- [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
 
 ## Social networks
 
