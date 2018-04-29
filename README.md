@@ -61,6 +61,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/bengrosser/facebook-demetricator) - A web browser extension that removes all the metrics from the Facebook interface.
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/bengrosser/twitter-demetricator) - A web browser extension that removes all the metrics on Twitter.
 - [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that replaces your Facebook news feed with a nice quote.
+- [Granary](https://granary.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/snarfed/granary) - The social web translator that breaks silo's by converting data between social networks.
 
 ## Freedom
 
