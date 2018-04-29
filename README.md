@@ -1,6 +1,6 @@
 # Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
 
-**NOTE**: This awesome page is new! Please help improve this list by sending your PR's suggesting categories and supply additional entries. Thank you so much :)
+[![The Center for Humane Technology](http://static1.squarespace.com/static/57f92f5bf5e231f7e7aaa0ae/t/5a768ebb652dea12df04d0b9/1517719227886/Social+Share+Logo-v2+-+2018-02-02.jpg?format=1000w)](https://humanetech.com)
 
 ## Contents
 
