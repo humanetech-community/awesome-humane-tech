@@ -101,11 +101,12 @@ This list focuses on (mostly open-source) projects that are directly related to 
 ## Related awesomeness
 
 - ![Awesome](https://awesome.re/badge.svg) [Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
-- ![Awesome](https://awesome.re/badge.svg) [Decentralized](https://github.com/steve-vincent/awesome-decentralized) - A list of decentralized, P2P, and distributed platforms and applications.
-- ![Awesome](https://awesome.re/badge.svg) [Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
-- ![Awesome](https://awesome.re/badge.svg) [Activism Tools](https://github.com/drewrwilson/toolsforactivism) - A list of awesome digital tools for activism.
-- ![Awesome](https://awesome.re/badge.svg) [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - A list for building / promoting more compassionate engineering cultures.
-- ![Awesome](https://awesome.re/badge.svg) [Diversity](https://github.com/folkswhocode/awesome-diversity) - A list of amazing articles, websites and resources about diversity in technology. 
+- ![Awesome](https://awesome.re/badge.svg) [Decentralized](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
+- ![Awesome](https://awesome.re/badge.svg) [Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A curated list of peer-to-peer resources.
+- ![Awesome](https://awesome.re/badge.svg) [Activism Tools](https://github.com/drewrwilson/toolsforactivism) - A curated list of awesome digital tools for activism.
+- ![Awesome](https://awesome.re/badge.svg) [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - A curated list for building / promoting more compassionate engineering cultures.
+- ![Awesome](https://awesome.re/badge.svg) [Diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazing articles, websites and resources about diversity in technology.
+- ![Awesome](https://awesome.re/badge.svg) [Free Software](https://github.com/johnjago/awesome-free-software) - A curated list of free as in freedom software.
 
 ## Contributing
 
