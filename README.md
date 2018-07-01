@@ -49,6 +49,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Matomo](http://matomo.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/matomo) - The leading open alternative to Google Analytics that gives you full control over your data.
 - [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings.
+- [Snips](https://snips.ai/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/snipsco) - Voice assistant designed to make people's interaction with technology more humane without compromising on privacy.
 
 ## Social networks
 
