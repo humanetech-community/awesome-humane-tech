@@ -49,6 +49,8 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Matomo](http://matomo.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/matomo) - The leading open alternative to Google Analytics that gives you full control over your data.
 - [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings.
+- [Trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site.
+- [Fathom](https://usefathom.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/usefathom/fathom) - A simpler and more privacy-focused alternative to Google Analytics.
 - [Snips](https://snips.ai/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/snipsco) - Voice assistant designed to make people's interaction with technology more humane without compromising on privacy.
 
 ## Social networks
@@ -64,11 +66,13 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/bengrosser/twitter-demetricator) - A web browser extension that removes all the metrics on Twitter.
 - [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that replaces your Facebook news feed with a nice quote.
 - [Granary](https://granary.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/snarfed/granary) - The social web translator that breaks silo's by converting data between social networks.
+- [Neocities](https://neocities.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/neocities/neocities) - Social network that brings back the lost individual creativity of the web.
 
 ## Freedom
 
 - [Alternative Internet](https://redecentralize.github.io/alternative-internet/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [GlobaLeaks](https://www.globaleaks.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
+- [SecureDrop](https://securedrop.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/freedomofpress/securedrop) - Whistleblower submission system to securily interact with anonymous sources.
 
 ## Gamification
 
