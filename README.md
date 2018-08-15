@@ -51,6 +51,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings.
 - [Trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site.
 - [Fathom](https://usefathom.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/usefathom/fathom) - A simpler and more privacy-focused alternative to Google Analytics.
+- [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - A browser extension that helps identify what sensitive information (PII) is shared / leaked to 3rd-parties.
 
 ## Social networks
 
