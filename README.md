@@ -112,6 +112,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - ![Awesome](https://awesome.re/badge.svg) [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - A curated list for building more compassionate engineering cultures.
 - ![Awesome](https://awesome.re/badge.svg) [Diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazing articles, websites and resources about diversity in technology.
 - ![Awesome](https://awesome.re/badge.svg) [Free Software](https://github.com/johnjago/awesome-free-software) - A curated list of free as in freedom software.
+- ![Awesome](https://awesome.re/badge.svg) [Ad-Free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the web.
 
 ## Contributing
 
