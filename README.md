@@ -100,7 +100,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Awareness
 
-- [Data Selfie](https://dataselfie.it) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (read [faq](https://dataselfie.it/#/faq) and [privacy](https://dataselfie.it/#/privacy) before using). **[(discontinued per July 1, 2018)](https://dataselfie.it/#/shutdown)**
+- [Data Selfie](https://dataselfie.it) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (server [discontinued](https://dataselfie.it/#/shutdown), code still usable).
 - [hack-an-engineer](https://www.nemil.com/musings/hack-an-engineer.html) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/nemild/hack-an-engineer) - Examples of intentional and unintentional hacks of software engineering media sources.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze the Facebook copy of your own data.
 
