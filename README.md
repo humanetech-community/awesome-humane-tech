@@ -77,7 +77,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 ## Gamification
 
 - [Security Belt](https://github.com/otto-de/security-belt) - A framework for improving the IT-Security of your teams through gamification.
-- [Habitica](https://habitica.com) - Gamify your life. Motivate yourself to achieve your goals.
+- [Habitica](https://habitica.com) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/HabitRPG/habitica) - Gamify your life. Motivate yourself to achieve your goals.
 
 ## Health
 
