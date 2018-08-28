@@ -32,6 +32,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - An ethics oath for programmers, comparable to the Hippocratic Oath.
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - The Maslov Pyramid of Needs redrawn for sites and projects practicing ethical design.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
+- [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 
 ## Privacy
 
