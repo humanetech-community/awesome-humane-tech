@@ -56,6 +56,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Fathom](https://usefathom.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/usefathom/fathom) - A simpler and more privacy-focused alternative to Google Analytics.
 - [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - A browser extension that helps identify what sensitive information (PII) is shared / leaked to 3rd-parties.
 - [Webbkoll](https://webbkoll.dataskydd.net) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy.
+- [PrivacyScore](https://privacyscore.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
 
 ## Social networks
 
