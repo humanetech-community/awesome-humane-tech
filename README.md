@@ -79,6 +79,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Alternative Internet](https://redecentralize.github.io/alternative-internet/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [GlobaLeaks](https://www.globaleaks.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 - [SecureDrop](https://securedrop.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/freedomofpress/securedrop) - Whistleblower submission system to securily interact with anonymous sources.
+- [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/da2x/EdgeDeflector) - Force Windows 10 to use your preferred web browser instead of Microsoft Edge.
 
 ## Gamification
 
