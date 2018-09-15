@@ -59,6 +59,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [PrivacyScore](https://privacyscore.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
 - [user.js](https://github.com/pyllyukko/user.js) - Configuration for Firefox  to harden browser settings and make it more secure.
 
+
 ## Social networks
 
 - [Mastodon](https://joinmastodon.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
@@ -111,6 +112,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [hack-an-engineer](https://www.nemil.com/musings/hack-an-engineer.html) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/nemild/hack-an-engineer) - Examples of intentional and unintentional hacks of software engineering media sources.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze the Facebook copy of your own data.
 - [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
+- [Who Tracks Me](https://whotracks.me/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cliqz-oss/whotracks.me) - Bringing Transparency to online tracking - built by Cliqz and Ghostery.
 
 ## Related awesomeness
 
