@@ -33,6 +33,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - The Maslov Pyramid of Needs redrawn for sites and projects practicing ethical design.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 - [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
+- [Post-Meritocracy Manifesto](https://postmeritocracy.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
 
 ## Privacy
 
