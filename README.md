@@ -52,12 +52,6 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [PrivacyScore](https://privacyscore.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
 - [user.js](https://github.com/pyllyukko/user.js) - Configuration for Firefox  to harden browser settings and make it more secure.
 
-## Blacklists
-
-- [Hosts](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
-- [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
-- [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
-
 ## Consent
 
 - [re:consent](https://github.com/cliqz-oss/re-consent) - Browser plugin that lets you view / change the consent you have given to websites for data processing.
@@ -71,6 +65,11 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
 - [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) - Proxy service for Google measurement protocol and client-side replacement of its analytics script.
 
+## Blacklists
+
+- [Hosts](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
+- [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
+- [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
 
 ## Social networks
 
