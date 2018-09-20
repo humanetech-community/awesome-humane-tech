@@ -60,6 +60,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [PrivacyScore](https://privacyscore.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
 - [user.js](https://github.com/pyllyukko/user.js) - Configuration for Firefox  to harden browser settings and make it more secure.
 - [re:consent](https://github.com/cliqz-oss/re-consent) - Browser plugin that lets you view / change the consent you have given to websites for data processing.
+- [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) - Proxy service for Google measurement protocol and client-side replacement of its analytics script.
 
 ## Social networks
 
