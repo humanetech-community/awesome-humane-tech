@@ -45,22 +45,26 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient wide-spectrum blocker for Chromium and Firefox. Fast and lean.
 - [ConsentCookie](https://www.consentcookie.nl/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/humanswitch/consentcookie) - Customizable script that allow users to opt-in for cookies on a case-by-case basis.
 - [Mozilla Contain-Facebook](https://github.com/mozilla/contain-facebook) - Firefox plugin to prevent tracking outside of the Facebook website via 3rd-party cookies.
-- [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Hosts](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 - [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
 - [SilverDog](http://ubeacsec.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ubeacsec/Silverdog) - An audio firewall to block ultrasound tracking applications.
-- [Matomo](http://matomo.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/matomo) - The leading open alternative to Google Analytics that gives you full control over your data.
 - [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings.
 - [Trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site.
-- [Fathom](https://usefathom.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/usefathom/fathom) - A simpler and more privacy-focused alternative to Google Analytics.
 - [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - A browser extension that helps identify what sensitive information (PII) is shared / leaked to 3rd-parties.
 - [Webbkoll](https://webbkoll.dataskydd.net) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy.
 - [PrivacyScore](https://privacyscore.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
 - [user.js](https://github.com/pyllyukko/user.js) - Configuration for Firefox  to harden browser settings and make it more secure.
 - [re:consent](https://github.com/cliqz-oss/re-consent) - Browser plugin that lets you view / change the consent you have given to websites for data processing.
+
+## Analytics
+
+- [Matomo](http://matomo.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/matomo-org/matomo) - The leading open alternative to Google Analytics that gives you full control over your data.
+- [Fathom](https://usefathom.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/usefathom/fathom) - A simpler and more privacy-focused alternative to Google Analytics.
+- [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
 - [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) - Proxy service for Google measurement protocol and client-side replacement of its analytics script.
+
 
 ## Social networks
 
