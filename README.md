@@ -55,7 +55,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient wide-spectrum blocker for Chromium and Firefox. Fast and lean.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
 - [Exodify](https://exodify.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/FacettsOpen/exodify) - Wondering if an app is tracking you? Now you can see it directly in the Play store.
-- [Mozilla Contain-Facebook](https://github.com/mozilla/contain-facebook) - Firefox plugin to prevent tracking outside of the Facebook website via 3rd-party cookies.
+- [Mozilla Facebook Container](https://github.com/mozilla/contain-facebook) - Isolates your Facebook activity from the rest of your web activity, to prevent tracking.
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings.
 - [SilverDog](http://ubeacsec.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ubeacsec/Silverdog) - An audio firewall to block ultrasound tracking applications.
 
