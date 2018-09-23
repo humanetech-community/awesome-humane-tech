@@ -62,7 +62,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Consent
 
-- [re:consent](https://github.com/cliqz-oss/re-consent) - Browser plugin that lets you view / change the consent you have given to websites for data processing.
+- [re:consent](https://cliqz.com/en/magazine/re-consent) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cliqz-oss/re-consent) - Browser plugin that lets you view / change the consent you have given to websites for data processing.
 - [Trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site.
 - [ConsentCookie](https://www.consentcookie.nl/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/humanswitch/consentcookie) - Customizable script that allow users to opt-in for cookies on a case-by-case basis.
 
