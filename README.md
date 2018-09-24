@@ -53,7 +53,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) | [<img src="https://raw.githubusercontent.com/gitlabhq/gitlabhq/7d3bbeeb31731907456e8c4d5640e52e58a921fb/app/assets/images/logo.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - Browser extension allowing to pose as another browser by changing the User-Agent header.
 - [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/meh/smart-referer) - Browser extension that automatically hides the referer when changing domains.
 - [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/kkapsner/CanvasBlocker/) - Browser extension that prevents fingerprinting via Javascript Canvas API.
-- [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ChrisAntaki/disable-webrtc-firefox) - Browser extension to disable WebRTC to avoid leaking your IP address from a VPN. 
+- [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ChrisAntaki/disable-webrtc-firefox) - Browser extension to disable WebRTC to avoid leaking your IP address from behind a VPN. 
 
 ## Tracking
 
