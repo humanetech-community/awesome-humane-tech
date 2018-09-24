@@ -41,9 +41,9 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Privacy
 
+- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 - [Signal](https://www.signal.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/signalapp) - Signal is a messaging app for simple private communication with friends.
-- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - A browser extension that helps identify what sensitive information (PII) is shared / leaked to 3rd-parties.
 - [Webbkoll](https://webbkoll.dataskydd.net) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy.
 - [PrivacyScore](https://privacyscore.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
