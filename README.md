@@ -41,6 +41,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Privacy
 
+- [privacytools.io](https://privacytools.io) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/privacytoolsIO/privacytools.io) - Knowledge and tools to protect your privacy against global mass surveillance.
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 - [Signal](https://www.signal.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/signalapp) - Signal is a messaging app for simple private communication with friends.
