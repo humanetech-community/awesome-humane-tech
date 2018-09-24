@@ -48,6 +48,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Webbkoll](https://webbkoll.dataskydd.net) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy.
 - [PrivacyScore](https://privacyscore.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
 - [user.js](https://github.com/pyllyukko/user.js) - Configuration for Firefox  to harden browser settings and make it more secure.
+- [Decentraleyes](https://decentraleyes.org/) | [<img src="https://raw.githubusercontent.com/gitlabhq/gitlabhq/7d3bbeeb31731907456e8c4d5640e52e58a921fb/app/assets/images/logo.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - Browser extension that emulates Content Delivery Networks to improve your online privacy.
 
 ## Tracking
 
