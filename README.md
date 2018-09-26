@@ -17,6 +17,7 @@
 - [Health](#health)
 - [Mindfulness](#mindfulness)
 - [Awareness](#awareness)
+- [Unmaintained](#unmaintained)
 - [Related awesomeness](#related-awesomeness)
 - [Contributing](#contributing)
 - [License](#license)
@@ -142,6 +143,10 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze the Facebook copy of your own data.
 - [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 - [Who Tracks Me](https://whotracks.me/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cliqz-oss/whotracks.me) - Bringing Transparency to online tracking - built by Cliqz and Ghostery.
+
+## Unmaintained
+
+This section is for inactive projects that are nonetheless still of interest regarding their topics or code.
 
 ## Related awesomeness
 
