@@ -148,6 +148,8 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 This section is for inactive projects that are nonetheless still of interest regarding their topics or code.
 
+- [Wi-Fi Privacy Police](https://github.com/BramBonne/privacypolice) - Prevents your smartphone or tablet from leaking privacy sensitive information via Wi-Fi networks.
+
 ## Related awesomeness
 
 - [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
