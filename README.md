@@ -39,6 +39,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 - [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 - [Post-Meritocracy Manifesto](https://postmeritocracy.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
+- [Tech for Good]
 
 ## Privacy
 
@@ -140,7 +141,8 @@ This list focuses on (mostly open-source) projects that are directly related to 
 ## Awareness
 
 - [Data Selfie](https://dataselfie.it) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (server [discontinued](https://dataselfie.it/#/shutdown), code still usable).
-- [hack-an-engineer](https://www.nemil.com/musings/hack-an-engineer.html) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/nemild/hack-an-engineer) - Examples of intentional and unintentional hacks of software engineering media sources.
+- [Hack the Media](https://github.com/nemild/hack-the-media) - A media literacy guide highlighting how our media sources can give us a flawed view of the world.
+- [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/nemild/hack-the-media/blob/master/software-engineers-media-guide.md) - A media literacy guide for software engineers.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze the Facebook copy of your own data.
 - [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 - [Who Tracks Me](https://whotracks.me/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cliqz-oss/whotracks.me) - Bringing Transparency to online tracking - built by Cliqz and Ghostery.
