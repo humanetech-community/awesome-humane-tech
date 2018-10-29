@@ -105,6 +105,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that replaces your Facebook news feed with a nice quote.
 - [Granary](https://granary.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/snarfed/granary) - The social web translator that breaks silo's by converting data between social networks.
 - [Neocities](https://neocities.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/neocities/neocities) - Social network that brings back the lost individual creativity of the web.
+- [Osada](https://zotlabs.com/osada/) | [<img src="https://raw.githubusercontent.com/gitlabhq/gitlabhq/7d3bbeeb31731907456e8c4d5640e52e58a921fb/app/assets/images/logo.svg?sanitize=true" width="16"/>](https://framagit.org/macgirvin/osada) - A social network designed to be the glue that binds much of the decentralised web.
 
 ## Freedom
 
