@@ -133,6 +133,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Mindfulness at the Computer](https://mindfulness-at-the-computer.github.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer) - Helps you stay mindful of your breathing while using your computer.
 - [Breathe](http://breatheforpebble.tk/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cheeseisdisgusting/exhale) - Take a moment to breathe. A Pebble app for breathing, written in C.
 - [Chomper](https://addictedto.tech/chomper/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/aniketpanjwani/chomper) - Internet blocker for Linux with whitelists/blacklists and timer to help you be more productive at work.
+- [Jobs Done](https://jobs-done.now.sh/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/skidding/jobs-done) - A ritual app for ending the work day inspired by Deep Work.
 
 ## Happiness
 
