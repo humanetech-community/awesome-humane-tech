@@ -127,6 +127,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Prisma Care](https://prisma.care/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/Prisma/mobile-app) - App that strengthens the relationship between people with memory loss and people close to them.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [If me](http://www.if-me.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ifmeorg/ifme) - A community for mental health experiences encouraging people to share their stories with loved ones.
+- [Stretchly](https://hovancik.net/stretchly) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/hovancik/stretchly) - A cross-platform app that reminds you to take breaks when working with your computer.
 
 ## Mindfulness
 
