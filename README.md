@@ -152,6 +152,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 ## Inclusiveness
 
 - [Post-Meritocracy Manifesto](https://postmeritocracy.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
+- [AlexJS](https://alexjs.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 
 ## Unmaintained
 
