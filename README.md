@@ -17,6 +17,7 @@
 - [Health](#health)
 - [Mindfulness](#mindfulness)
 - [Awareness](#awareness)
+- [Inclusiveness](#inclusiveness)
 - [Unmaintained](#unmaintained)
 - [Related awesomeness](#related-awesomeness)
 - [Contributing](#contributing)
@@ -38,7 +39,6 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - The Maslov Pyramid of Needs redrawn for sites and projects practicing ethical design.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 - [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
-- [Post-Meritocracy Manifesto](https://postmeritocracy.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
 
 ## Privacy
 
@@ -148,6 +148,10 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze the Facebook copy of your own data.
 - [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 - [Who Tracks Me](https://whotracks.me/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cliqz-oss/whotracks.me) - Bringing Transparency to online tracking - built by Cliqz and Ghostery.
+
+## Inclusiveness
+
+- [Post-Meritocracy Manifesto](https://postmeritocracy.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
 
 ## Unmaintained
 
