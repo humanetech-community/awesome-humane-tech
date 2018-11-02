@@ -39,6 +39,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - The Maslov Pyramid of Needs redrawn for sites and projects practicing ethical design.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 - [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
+- [Ethics Pledge](https://www.datafordemocracy.org/pledge) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/Data4Democracy/ethics-resources) - Global initiative aimed to adopt our ethical framework and principles into your data work.
 
 ## Privacy
 
