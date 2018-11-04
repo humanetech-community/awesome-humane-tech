@@ -40,6 +40,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 - [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/Data4Democracy/ethics-resources) - Global initiative aimed to adopt our ethical framework and principles into your data work.
+- [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/MKDale/techoath) - An optional oath for building ethically considered experiences.
 
 ## Privacy
 
