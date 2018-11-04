@@ -72,6 +72,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings.
 - [SilverDog](http://ubeacsec.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ubeacsec/Silverdog) - An audio firewall to block ultrasound tracking applications.
 - [Blokada](https://blokada.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/blokadaorg/blokada) - A compact, fast ad blocker for Android that works for all apps and does not require root.
+- [Better](https://better.fyi/) | [<img src="https://raw.githubusercontent.com/gitlabhq/gitlabhq/7d3bbeeb31731907456e8c4d5640e52e58a921fb/app/assets/images/logo.svg?sanitize=true" width="16"/>](https://source.ind.ie/better) - A privacy tool for Safari on iPhone, iPad, and Mac for behavioral ads and trackers.
 
 ## Consent
 
