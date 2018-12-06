@@ -48,6 +48,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 ## Security
 
 - [NoScript Security Suite](https://noscript.net/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/hackademix/noscript) - Mozilla-based browser plugin to only allow active content from white-listed websites.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many major websites, making your browsing more secure.
 
 ## Privacy
 
