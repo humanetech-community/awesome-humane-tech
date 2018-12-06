@@ -43,6 +43,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/Data4Democracy/ethics-resources) - Global initiative aimed to adopt our ethical framework and principles into your data work.
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/MKDale/techoath) - An optional oath for building ethically considered experiences.
 - [IoT Design Manifesto](https://www.iotmanifesto.com/) - A code of conduct for everyone involved in developing the Internet of Things
+- [switching.social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to popular social apps.
 
 ## Security
 
