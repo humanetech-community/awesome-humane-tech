@@ -6,6 +6,7 @@
 
 - [About this list](#about-this-list)
 - [Ethics](#ethics)
+- [Security](#security)
 - [Privacy](#privacy)
 - [Tracking](#tracking)
 - [Consent](#consent)
@@ -41,7 +42,12 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/Data4Democracy/ethics-resources) - Global initiative aimed to adopt our ethical framework and principles into your data work.
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/MKDale/techoath) - An optional oath for building ethically considered experiences.
-- [switching.social](https://switching.social/) - Ethical alternatives to popular social apps, emphasizing ease-of-use for non-technical people, privacy, and a general adherence to higher ethical standards.
+- [IoT Design Manifesto](https://www.iotmanifesto.com/) - A code of conduct for everyone involved in developing the Internet of Things
+- [switching.social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to popular social apps.
+
+## Security
+
+- [NoScript Security Suite](https://noscript.net/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/hackademix/noscript) - Mozilla-based browser plugin to only allow active content from white-listed websites.
 
 ## Privacy
 
