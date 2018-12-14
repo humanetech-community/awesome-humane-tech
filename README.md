@@ -5,6 +5,7 @@
 ## Contents
 
 - [About this list](#about-this-list)
+- [Community](#community)
 - [Ethics](#ethics)
 - [Security](#security)
 - [Privacy](#privacy)
@@ -31,6 +32,12 @@ Tech and social media is having a big impact on our society. While many innovati
 > Reversing the digital attention crisis and realigning technology with humanity's best interests
 
 This list focuses on (mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](contributing.md) before sending PR's.
+
+## Community
+
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+
+We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. Please come [**Join :heart: Us**](https://community.humanetech.com/t/who-we-are-what-we-do-and-how-you-can-help-humane-technology-too/2955) and become a true _Humane Tech Activist_!
 
 ## Ethics
 
