@@ -18,8 +18,9 @@
 - [Gamification](#gamification)
 - [Health](#health)
 - [Mindfulness](#mindfulness)
-- [Awareness](#awareness)
 - [Inclusiveness](#inclusiveness)
+- [Awareness](#awareness)
+- [Censorship](#censorship)
 - [Unmaintained](#unmaintained)
 - [Related awesomeness](#related-awesomeness)
 - [Contributing](#contributing)
@@ -161,6 +162,11 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 - [Happy DB](https://rit-public.github.io/HappyDB/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/rit-public/HappyDB) - HappyDB is a corpus of 100,000+ crowd-sourced happy moments.
 
+## Inclusiveness
+
+- [Post-Meritocracy Manifesto](https://postmeritocracy.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
+- [AlexJS](https://alexjs.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+
 ## Awareness
 
 - [Data Selfie](https://dataselfie.it) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (server [discontinued](https://dataselfie.it/#/shutdown), code still usable).
@@ -172,10 +178,9 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Awful AI](https://github.com/daviddao/awful-ai) - A curated list to track current scary usages of AI - hoping to raise awareness.
 - [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mozilla/lightbeam-we) - Addon that visualizes Web requests between 1st and 3rd-party sites in real time.
 
-## Inclusiveness
+## Censorship
 
-- [Post-Meritocracy Manifesto](https://postmeritocracy.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
-- [AlexJS](https://alexjs.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+- [Probe](https://ooni.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (first read [risks](https://ooni.io/about/risks/)).
 
 ## Unmaintained
 
