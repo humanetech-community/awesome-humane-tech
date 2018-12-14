@@ -181,7 +181,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 ## Censorship
 
-- [Probe](https://ooni.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (first read [risks](https://ooni.io/about/risks/)).
+- [OONI Probe](https://ooni.io/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (first read [risks](https://ooni.io/about/risks/)).
 
 ## Unmaintained
 
