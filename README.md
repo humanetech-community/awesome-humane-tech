@@ -52,6 +52,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/MKDale/techoath) - An optional oath for building ethically considered experiences.
 - [IoT Design Manifesto](https://www.iotmanifesto.com/) - A code of conduct for everyone involved in developing the Internet of Things
 - [switching.social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to popular social apps.
+- [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 
 ## Security
 
