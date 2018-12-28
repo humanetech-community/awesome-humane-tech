@@ -178,6 +178,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Who Tracks Me](https://whotracks.me/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/cliqz-oss/whotracks.me) - Bringing Transparency to online tracking - built by Cliqz and Ghostery.
 - [Awful AI](https://github.com/daviddao/awful-ai) - A curated list to track current scary usages of AI - hoping to raise awareness.
 - [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mozilla/lightbeam-we) - Addon that visualizes Web requests between 1st and 3rd-party sites in real time.
+- [OpenWPM](https://webtap.princeton.edu/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mozilla/openwpm) - Princeton Web Transparency & Accountability project, a privacy measurement framework.
 
 ## Censorship
 
