@@ -15,6 +15,7 @@
 - [Blacklists](#blacklists)
 - [Social networks](#social-networks)
 - [Freedom](#freedom)
+- [Geolocation](#geolocation)
 - [Gamification](#gamification)
 - [Health](#health)
 - [Mindfulness](#mindfulness)
@@ -137,6 +138,11 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [GlobaLeaks](https://www.globaleaks.org/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 - [SecureDrop](https://securedrop.org) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/freedomofpress/securedrop) - Whistleblower submission system to securily interact with anonymous sources.
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/da2x/EdgeDeflector) - Force Windows 10 to use your preferred web browser instead of Microsoft Edge.
+
+## Geolocation
+
+- [Mozilla Ichnaea](http://location.services.mozilla.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mozilla/ichnaea) - An API that gets geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
+- [Mozilla Stumbler](http://location.services.mozilla.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location database.
 
 ## Gamification
 
