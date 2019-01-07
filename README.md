@@ -93,6 +93,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Better](https://better.fyi/) | [<img src="https://raw.githubusercontent.com/gitlabhq/gitlabhq/7d3bbeeb31731907456e8c4d5640e52e58a921fb/app/assets/images/logo.svg?sanitize=true" width="16"/>](https://source.ind.ie/better) - A privacy tool for Safari on iPhone, iPad, and Mac that blocks behavioral ads and trackers.
 - [Firefox ProfileMaker](https://ffprofile.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/allo-/firefox-profilemaker) - A tool to create Firefox configuration profiles with good defaults.
 - [Searx](https://asciimoo.github.io/searx/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/asciimoo/searx) - A trackerless, privacy-respecting metasearch engine that can be self-hosted.
+- [DNS66](https://jak-linux.org/projects/dns66/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/julian-klode/dns66) - A DNS-based Host Blocker (and lightweight ad blocker) for Android.
 
 ## Consent
 
