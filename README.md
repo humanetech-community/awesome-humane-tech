@@ -141,6 +141,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 ## Geolocation
 
+- [OpenStreetMap](https://www.openstreetmap.org) - A map of the world, created by people like you and free to use under an open licence.
 - [Mozilla Ichnaea](http://location.services.mozilla.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mozilla/ichnaea) - An API that gets geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Mozilla Stumbler](http://location.services.mozilla.com/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location database.
 
