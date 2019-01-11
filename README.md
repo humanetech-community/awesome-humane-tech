@@ -191,6 +191,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Awful AI](https://github.com/daviddao/awful-ai) - A curated list to track current scary usages of AI - hoping to raise awareness.
 - [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mozilla/lightbeam-we) - Addon that visualizes Web requests between 1st and 3rd-party sites in real time.
 - [OpenWPM](https://webtap.princeton.edu/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/mozilla/openwpm) - Princeton Web Transparency & Accountability project, a privacy measurement framework.
+- [Email Privacy Tester](https://www.emailprivacytester.com/) | [<img src="https://raw.githubusercontent.com/gitlabhq/gitlabhq/7d3bbeeb31731907456e8c4d5640e52e58a921fb/app/assets/images/logo.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - Check your email provider and client protection against many known tracking techniques.
 
 ## Censorship
 
