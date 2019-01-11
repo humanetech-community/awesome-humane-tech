@@ -182,7 +182,6 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 ## Awareness
 
-- [Data Selfie](https://dataselfie.it) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (server [discontinued](https://dataselfie.it/#/shutdown), code still usable).
 - [Hack the Media](https://github.com/nemild/hack-the-media) - A media literacy guide highlighting how our media sources can give us a flawed view of the world.
 - [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/nemild/hack-the-media/blob/master/software-engineers-media-guide.md) - A media literacy guide for software engineers.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze the Facebook copy of your own data.
@@ -202,6 +201,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 This section is for inactive projects that are nonetheless still of interest regarding their topics or code.
 
 - [Wi-Fi Privacy Police](https://github.com/BramBonne/privacypolice) - Prevents your smartphone or tablet from leaking privacy sensitive information via Wi-Fi networks.
+- [Data Selfie](https://dataselfie.it) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (server [discontinued](https://dataselfie.it/#/shutdown), code still usable).
 
 ## Related awesomeness
 
