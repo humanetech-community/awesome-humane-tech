@@ -60,6 +60,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [NoScript Security Suite](https://noscript.net/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/hackademix/noscript) - Mozilla-based browser plugin to only allow active content from white-listed websites.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many major websites, making your browsing more secure.
 - [Security Checklist](https://securitycheckli.st/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/brianlovin/security-checklist) - Checklist of resources designed to improve your online privacy and security.
+- [PRISM Break](https://prism-break.org) | [<img src="https://raw.githubusercontent.com/gitlabhq/gitlabhq/7d3bbeeb31731907456e8c4d5640e52e58a921fb/app/assets/images/logo.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
 
 ## Privacy
 
