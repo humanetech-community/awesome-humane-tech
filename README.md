@@ -44,7 +44,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 ## Ethics
 
 - [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) - Machine Learning and Data Science discrimination, bias and ethics.
-- [WikiTruth](https://wikitruth.co/) | [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
+- [WikiTruth](https://wikitruth.co/) | [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - An ethics oath for programmers, comparable to the Hippocratic Oath.
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - The Maslov Pyramid of Needs redrawn for sites and projects practicing ethical design.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
