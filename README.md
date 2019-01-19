@@ -44,7 +44,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 ## Ethics
 
 - [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) - Machine Learning and Data Science discrimination, bias and ethics.
-- [WikiTruth](https://wikitruth.co/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
+- [WikiTruth](https://wikitruth.co/) | [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - An ethics oath for programmers, comparable to the Hippocratic Oath.
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - The Maslov Pyramid of Needs redrawn for sites and projects practicing ethical design.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
@@ -60,7 +60,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [NoScript Security Suite](https://noscript.net/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/hackademix/noscript) - Mozilla-based browser plugin to only allow active content from white-listed websites.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many major websites, making your browsing more secure.
 - [Security Checklist](https://securitycheckli.st/) | [![github](https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/mark-github.svg) ](https://github.com/brianlovin/security-checklist) - Checklist of resources designed to improve your online privacy and security.
-- [PRISM Break](https://prism-break.org) | [<img src="https://raw.githubusercontent.com/gitlabhq/gitlabhq/7d3bbeeb31731907456e8c4d5640e52e58a921fb/app/assets/images/logo.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
+- [PRISM Break](https://prism-break.org) | [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
 
 ## Privacy
 
