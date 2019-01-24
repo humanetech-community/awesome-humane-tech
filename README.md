@@ -61,6 +61,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many major websites, making your browsing more secure.
 - [Security Checklist](https://securitycheckli.st/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/brianlovin/security-checklist) - Checklist of resources designed to improve your online privacy and security.
 - [PRISM Break](https://prism-break.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
+- [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/google/password-alert) - Chrome extension by Google that warns about phishing attempts to your Google Account.
 
 ## Privacy
 
