@@ -176,6 +176,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Chomper](https://addictedto.tech/chomper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/aniketpanjwani/chomper) - Internet blocker for Linux with whitelists/blacklists and timer to help you be more productive at work.
 - [Jobs Done](https://jobs-done.now.sh/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/skidding/jobs-done) - A ritual app for ending the work day inspired by Deep Work.
 - [Break Timer](https://github.com/tom-james-watson/breaktimer) - A Chrome / Firefox extension for taking periodic breaks, prevent RSI, eye-strain and tiredness.
+- [MindBell](https://www.dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/udamken/mindbell) - Mindfulness bell and meditation timer for Android.
 
 ## Happiness
 
