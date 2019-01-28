@@ -199,6 +199,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [OpenWPM](https://webtap.princeton.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/openwpm) - Princeton Web Transparency & Accountability project, a privacy measurement framework.
 - [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - Check your email provider and client protection against many known tracking techniques.
 - [Browser Autofill Phishing](https://github.com/anttiviljami/browser-autofill-phishing) - Demonstrates phishing for autofilled form fields that are hidden to the user.
+- [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/propublica/facebook-political-ads) - Browser extension to help ProPublica collect political advertising on Facebook.
 
 ## Censorship
 
