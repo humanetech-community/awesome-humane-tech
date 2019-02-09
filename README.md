@@ -118,6 +118,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Fathom](https://usefathom.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/usefathom/fathom) - A simpler and more privacy-focused alternative to Google Analytics.
 - [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
 - [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) - Proxy service for Google measurement protocol and client-side replacement of its analytics script.
+- [GoAccess](https://goaccess.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/allinurl/goaccess) - A real-time web log analyzer and interactive viewer that runs in a terminal or in a browser.
 
 ## Blacklists
 
