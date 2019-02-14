@@ -1,6 +1,6 @@
 # Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
 
-[![The Center for Humane Technology](http://static1.squarespace.com/static/57f92f5bf5e231f7e7aaa0ae/t/5a768ebb652dea12df04d0b9/1517719227886/Social+Share+Logo-v2+-+2018-02-02.jpg?format=1000w)](https://humanetech.com)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/humane-tech-community-overview.png)](https://community.humanetech.com)
 
 ## Contents
 
@@ -29,7 +29,7 @@
 
 ## About this list
 
-Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech/problem), a world-class team of deeply concerned former tech insiders and CEOs have created [The Center of Humane Technology](https://humanetech.com). A community and website where you'll find solutions and best-practices!
+Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech/problem), a world-class team of deeply concerned former tech insiders led by Tristan Harris have created [The Center of Humane Technology](https://humanetech.com).
 
 > Reversing the digital attention crisis and realigning technology with humanity's best interests
 
@@ -41,7 +41,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
-We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. Please come [**Join :heart: Us**](https://community.humanetech.com/t/who-we-are-what-we-do-and-how-you-can-help-humane-technology-too/2955) and become a true _Humane Tech Activist_!
+We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. We are building **The Pyramids of Humane Technology** and you can build with us. [**Be a Builder :heart: Help Improve Wellbeing, Freedom and Society !**](https://community.humanetech.com/t/3322) and become a true _Humane Tech Activist_!
 
 ## Ethics
 
