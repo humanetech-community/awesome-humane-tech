@@ -1,6 +1,10 @@
 # Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
 
+<br/><br/>
+
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/humane-tech-community-overview.png)](https://community.humanetech.com)
+
+<br/>
 
 ## Contents
 
@@ -29,11 +33,11 @@
 
 ## About this list
 
-Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech/problem), a world-class team of deeply concerned former tech insiders led by Tristan Harris have created [The Center of Humane Technology](https://humanetech.com).
+Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech/problem), a world-class team of deeply concerned former tech insiders led by Tristan Harris have created [The Center of Humane Technology](https://humanetech.com). Our vision is:
 
-> Reversing the digital attention crisis and realigning technology with humanity's best interests
+> **Ubiquitous Humane Technology that Stimulates Humans to Flourish and Humanity to Thrive.**
 
-This list focuses on (mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](contributing.md) before sending PR's.
+This list focuses on (mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](contributing.md) before sending your PR's.
 
 **Important**: The resources presented below were collected in good faith by the contributors to this list in hopes they may prove useful to you. But as per the [License](#license) we can give no guarantees on the quality or fitness of the software that is referenced. So inform yourself properly before installing anything, and if you encounter something that is inappropriate or wrong, then please file an issue in our [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
 
@@ -41,7 +45,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
-We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. We are building **The Pyramids of Humane Technology** and you can build with us. [**Be a Builder :heart: Help Improve Wellbeing, Freedom and Society !**](https://community.humanetech.com/t/3322) and become a true _Humane Tech Activist_!
+We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. We are building **"The Pyramids of Humane Technology"** and you can build with us. [**Be a Builder :heart: Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) and become a true _Humane Tech Activist!_
 
 ## Ethics
 
