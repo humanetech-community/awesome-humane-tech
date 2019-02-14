@@ -45,7 +45,9 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
-We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. We are building **"The Pyramids of Humane Technology"** and you can build with us. [**Be a Builder :heart: Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) and become a true _Humane Tech Activist!_
+We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. We are building **"The Pyramids of Humane Technology"** and you can build with us.
+
+[**Be a Builder :heart: Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) and become a true _Humane Tech Activist!_
 
 ## Ethics
 
