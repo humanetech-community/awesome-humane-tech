@@ -92,6 +92,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Syncthing](https://syncthing.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/syncthing/syncthing/) - Replaces proprietary cloud services to synchronize files across multiple devices, decentralized.
 - [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/TokTok/c-toxcore) - A peer-to-peer instant messenger aimed at making security and privacy easy to obtain for regular users.
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/oversecio/oversec) - Android app that captures and encrypts texts you type, then passes it to the actual app.
+- [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) - Firefox addon that allows you to toggle blocking ON or OFF on popular top 5 cloud companies.
 
 ## Tracking
 
