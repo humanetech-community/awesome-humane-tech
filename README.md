@@ -133,7 +133,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 - [Hosts](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 - [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
-- [Referrer Spam Blocklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
+- [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
 
 ## Social networks
 
