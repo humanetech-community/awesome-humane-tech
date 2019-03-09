@@ -202,6 +202,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 ## Awareness
 
+- [QuickTwit](https://quicktwit.com) - A tool to know the latest trends in your topics of interests
 - [Hack the Media](https://github.com/nemild/hack-the-media) - A media literacy guide highlighting how our media sources can give us a flawed view of the world.
 - [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/nemild/hack-the-media/blob/master/software-engineers-media-guide.md) - A media literacy guide for software engineers.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze the Facebook copy of your own data.
