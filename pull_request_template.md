@@ -16,9 +16,7 @@
 <!-- If it's not a FLOSS/FOSS/OSS project, please clarify further --> 
 
 ### Is there a similar software/tool etc., that already exists?
-  <!-- Yes -->
-      <!-- how does my tool differ from the existing one (also include how it differs in terms of humane ethical reasons) -->
-  <!-- No : -->
-      <!-- Try to explain why and the motivations so that we can understand your project better and it will help us speak about your work --> 
+Yes : how does my tool differ from the existing one (also include how it differs in terms of humane ethical reasons?
+No : Try to explain why and the motivations so that we can understand your project better and it will help us speak about your work
   
-<!-- Add any other topic/section here you wish to explain and elaborate -->
+### Add any other topic/section here you wish to explain and elaborate
