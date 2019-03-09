@@ -1,6 +1,6 @@
 <!-- Feel free to add more sections to explain about your awesome humane work to us -->
 
-- [ ] I have referred the list and did not find this software/tool/service/tech already added.
+- [ ] I have referred the list and did not find this submission already added.
 - [ ] I have read the contribution guidelines [here](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md)
 - [ ] I have read the code of conduct and I agree to adhere to the same [here](https://github.com/humanetech-community/awesome-humane-tech/blob/master/code-of-conduct.md)
 - [ ] I have added my entry as the latest (last dotted point) under a topic, not at the beginning, not interleaved. 
@@ -8,7 +8,7 @@
 <!-- Every entry added to Humane Awesome list is important to the welfare of the society/species 
 <!-- .. and hence we use dotted list, not numerical list which may imply order --> 
 
-### Name of my software/tool/service/technology : 
+### Name of my software/tool/service/technology/project : 
 
 ### Explain why it's a Humane Technology: { }
 
@@ -16,7 +16,9 @@
 <!-- If it's not a FLOSS/FOSS/OSS project, please clarify further --> 
 
 ### Is there a similar software/tool etc., that already exists?
-Yes : how does my tool differ from the existing one (also include how it differs in terms of humane ethical reasons?
-No : Try to explain why and the motivations so that we can understand your project better and it will help us speak about your work
+
+Yes : how does my project differ from the existing one (also include how it differs in terms of humane ethical reasons?  
+
+No : Try to explain why and the motivations, goals, and purpose if you can, so that we can understand your project better and it will help us speak about your work. 
   
 ### Add any other topic/section here you wish to explain and elaborate
