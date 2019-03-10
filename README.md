@@ -71,6 +71,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Security Checklist](https://securitycheckli.st/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/brianlovin/security-checklist) - Checklist of resources designed to improve your online privacy and security.
 - [PRISM Break](https://prism-break.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
 - [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/google/password-alert) - Chrome extension by Google that warns about phishing attempts to your Google Account.
+- [Warn Common Password](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/master/README.md)- Addon to protect us from common passwords via bundled _offline_ list 500006 entries
 
 ## Privacy
 
@@ -157,6 +158,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [GlobaLeaks](https://www.globaleaks.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/globaleaks/GlobaLeaks) - Free and open source software intended to enable Secure and Anonymous Whistleblowing initiatives.
 - [SecureDrop](https://securedrop.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/freedomofpress/securedrop) - Whistleblower submission system to securily interact with anonymous sources.
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/da2x/EdgeDeflector) - Force Windows 10 to use your preferred web browser instead of Microsoft Edge.
+- [Wayback Everywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/master/README.md)- Redirect all pages to snapshots in Wayback Machine + auto-save pages / auto-exclude sites.
 
 ## Geolocation
 
