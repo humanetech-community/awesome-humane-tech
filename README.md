@@ -113,6 +113,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Searx](https://asciimoo.github.io/searx/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/asciimoo/searx) - A trackerless, privacy-respecting metasearch engine that can be self-hosted.
 - [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/julian-klode/dns66) - A DNS-based Host Blocker (and lightweight ad blocker) for Android.
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Browser extension that deletes cookies as soon as the tab closes, unless site is allowListed.
+- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/README.md) - Addon that removes tracking elements form address bar URLs using 130 rules.
 
 ## Consent
 
