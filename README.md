@@ -63,6 +63,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [switching.social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to popular social apps.
 - [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
+- [Fairwork Foundation](https://fair.work/) - A project that is working to set and measure standards and provide certification in the platform economy.
 
 ## Security
 
