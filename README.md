@@ -43,7 +43,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Community
 
-[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
 We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. We are building **"The Pyramids of Humane Technology"** and you can build with us.
 
