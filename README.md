@@ -115,6 +115,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/julian-klode/dns66) - A DNS-based Host Blocker (and lightweight ad blocker) for Android.
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Browser extension that deletes cookies as soon as the tab closes, unless site is allowListed.
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/README.md) - Addon that removes tracking elements form address bar URLs using 130 rules.
+- [Pi-hole](https://pi-hole.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/pi-hole/pi-hole) - A DNS sinkhole to block ads or trackers on a local network without installing any client-side software.
 
 ## Consent
 
