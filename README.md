@@ -205,6 +205,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 
 - [Post-Meritocracy Manifesto](https://postmeritocracy.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
 - [AlexJS](https://alexjs.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+- [Buster](https://github.com/dessant/buster) - Browser extension and Captcha Solver for Humans.
 
 ## Awareness
 
