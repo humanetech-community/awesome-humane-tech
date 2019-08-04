@@ -161,6 +161,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium script to delete all of your Facebook wall posts.
 - [Minimal Twitter](https://twang.dev/minimal-twitter/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/thomaswangio/minimal-twitter) - Minimal Theme for the new Twitter UI.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/coralproject/talk) - An open-source commenting platform focused on better conversation.
+- [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/sandoche/Detoxify-app) - Generate a fake app to replace any addictive app.
 
 ## Freedom
 
