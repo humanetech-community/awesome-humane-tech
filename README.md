@@ -158,6 +158,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/neocities/neocities) - Social network that brings back the lost individual creativity of the web.
 - [Osada](https://zotlabs.com/osada/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://framagit.org/macgirvin/osada) - A social network designed to be the glue that binds much of the decentralised web.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium script to delete all of your Facebook wall posts.
+- [Minimal Twitter](https://twang.dev/minimal-twitter/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/thomaswangio/minimal-twitter) - Minimal Theme for the new Twitter UI.
 
 ## Freedom
 
