@@ -120,6 +120,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/README.md) - Addon that removes tracking elements form address bar URLs using 130 rules.
 - [Pi-hole](https://pi-hole.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/pi-hole/pi-hole) - A DNS sinkhole to block ads or trackers on a local network without installing any client-side software.
 - [Shariff](http://heiseonline.github.io/shariff/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/heiseonline/shariff) - Enables website users to share their favorite content without compromising their privacy.
+- [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/panzi/SocialSharePrivacy) - jQuery plugin for adding social share buttons that don't allow social sites to track users.
 
 ## Consent
 
