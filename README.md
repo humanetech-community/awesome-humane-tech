@@ -139,6 +139,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) - Proxy service for Google measurement protocol and client-side replacement of analytics script.
 - [GoAccess](https://goaccess.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/allinurl/goaccess) - A real-time web log analyzer and interactive viewer that runs in a terminal or in a browser.
 - [Countly](https://count.ly/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Countly/countly-server) - A self-hostable, real-time, mobile & web analytics, rich push notifications and crash reporting platform.
+- [Ackee](https://ackee.electerious.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/electerious/Ackee) - Self-hosted Node.js based analytics tool for those who care about privacy.
 
 ## Blocklists
 
