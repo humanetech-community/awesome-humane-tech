@@ -98,7 +98,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Librefox](https://github.com/intika/Librefox) - A project that aims at enforcing privacy and security of Firefox without forking the project.
 - [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/da2x/amp2html) - Browser extension to automatically redirect Accelerated Mobile Pages (AMP) to the actual HTML page.
 - [Location Privacy](https://guardianproject.info/apps/info.guardianproject.locationprivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/guardianproject/LocationPrivacy) - Privacy filters for shared location links.
-- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Freeyourgadget/Gadgetbridge) - Replace your gadget vendors' closed source Android apps. Supports Pebble, Mi Band, Liveview, HPlus and more.
+- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Freeyourgadget/Gadgetbridge) - Replaces gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus and more).
 
 
 ## Tracking
