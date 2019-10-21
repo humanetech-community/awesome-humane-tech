@@ -194,6 +194,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [If me](http://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ifmeorg/ifme) - A community for mental health experiences encouraging people to share their stories with loved ones.
 - [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hovancik/stretchly) - A cross-platform app that reminds you to take breaks when working with your computer.
+- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ActivityWatch/activitywatch) - An open-source automated time-tracker that is cross-platform, extensible and privacy-focused.
 
 ## Mindfulness
 
