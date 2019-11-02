@@ -64,7 +64,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
 - [Fairwork Foundation](https://fair.work/) - A project working to set and measure standards and provide certification in the platform economy.
-- [EU Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - Guidelines based on fundamental rights and ethical principles that AI systems should meet in order to be trustworthy
+- [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - Guidelines based on fundamental rights and ethical principles for trustworthy AI systems.
 
 ## Security
 
