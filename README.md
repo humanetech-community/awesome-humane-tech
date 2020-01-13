@@ -126,6 +126,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Shariff](http://heiseonline.github.io/shariff/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/heiseonline/shariff) - Enables website users to share their favorite content without compromising their privacy.
 - [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/panzi/SocialSharePrivacy) - jQuery plugin for adding social share buttons that don't allow social sites to track users.
 - [EasyList](https://easylist.to/) - Sets of rules (originally designed for Adblock) that automatically remove unwanted content from the internet.
+- [TrackMeNot](https://trackmenot.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/vtoubiana/TrackMeNot) - Browser extension that hides your real search-queries by adding noise and obfuscation.
 
 ## Consent
 
