@@ -33,9 +33,8 @@
 
 ## About this list
 
-Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech.com/problem/), a world-class team of deeply concerned former tech insiders led by Tristan Harris have created [The Center of Humane Technology](https://humanetech.com). Our vision is:
+Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech.com/problem/), a world-class team of deeply concerned former tech insiders led by Tristan Harris have created [The Center of Humane Technology](https://humanetech.com).
 
-> **Ubiquitous Humane Technology that Stimulates Humans to Flourish and Humanity to Thrive.**
 
 This list focuses on (mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](contributing.md) before sending your PR's.
 
@@ -44,6 +43,8 @@ This list focuses on (mostly open-source) projects that are directly related to 
 ## Community
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+
+> Our vision is: **Ubiquitous Humane Technology that Stimulates Humans to Flourish and Humanity to Thrive.**
 
 We invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about these interesting Humane Technology subjects. And if you want to participate in our discussions, help contribute to real solutions, then we'd gladly welcome you as one of our new members. We are building **"The Pyramids of Humane Technology"** and you can build with us.
 
