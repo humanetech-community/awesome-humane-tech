@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/humane-tech-community-overview.png)](https://community.humanetech.com)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/humanetech-tech-distraction.jpg)](https://community.humanetech.com)
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 ## About this list
 
-Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech/problem), a world-class team of deeply concerned former tech insiders led by Tristan Harris have created [The Center of Humane Technology](https://humanetech.com). Our vision is:
+Tech and social media is having a big impact on our society. While many innovative technology inventions are improving our lives, there is increasing awareness on negative impacts that come with these trends, such as social media addiction, mental health issues, and social erosion. To address [these problems](https://humanetech.com/problem/), a world-class team of deeply concerned former tech insiders led by Tristan Harris have created [The Center of Humane Technology](https://humanetech.com). Our vision is:
 
 > **Ubiquitous Humane Technology that Stimulates Humans to Flourish and Humanity to Thrive.**
 
