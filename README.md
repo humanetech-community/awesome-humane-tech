@@ -253,6 +253,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/propublica/facebook-political-ads) - Browser extension to help ProPublica collect political advertising on Facebook.
 - [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/WhoTargetsMe/Who-Targets-Me) - A browser extension that tracks which entities are targeting which demographics with adverts.
 - [Where are the Eyes?](https://eyes.daylightingsociety.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/DaylightingSociety/WhereAreTheEyes) - A program for detecting and mapping surveillance cameras.
+- [IMSI-Catcher Detector](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - An Android app to detect IMSI-Catchers aka Stingrays (project in Alpha).
 
 ## Censorship
 
