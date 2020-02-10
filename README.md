@@ -149,6 +149,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Ackee](https://ackee.electerious.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/electerious/Ackee) - Self-hosted Node.js based analytics tool for those who care about privacy.
 - [Koko Analytics](https://www.kokoanalytics.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ibericode/koko-analytics) - Plugin for WordPress that doesn't use external services and respects your visitors’ privacy.
 - [freshlytics](https://freshlytics.gitbook.io/docs/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/sheshbabu/freshlytics) - A self-hosted privacy-friendly, reliable and easy-to-deploy analytics service.
+- [Plausible Insights](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/plausible-insights/plausible) - Simple, lightweight analytics service that respects your visitors' privacy.
 
 ## Blocklists
 
