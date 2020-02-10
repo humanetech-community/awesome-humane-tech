@@ -173,6 +173,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Minimal Twitter](https://twang.dev/minimal-twitter/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/thomaswangio/minimal-twitter) - Minimal Theme for the new Twitter UI.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/coralproject/talk) - An open-source commenting platform focused on better conversation.
 - [Invidious](https://invidio.us) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/omarroth/invidious) - An alternative front-end to YouTube without Ads.
+- [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/deltachat) - Decentralized Whatsapp-like chat via email, without the tracking and central control.
 
 ## Freedom
 
