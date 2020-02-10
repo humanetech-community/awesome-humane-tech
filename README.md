@@ -66,7 +66,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [switching.social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to popular social apps.
 - [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
-- [Fairwork Foundation](https://fair.work/) - A project working to set and measure standards and provide certification in the platform economy.
+- [Fairwork Foundation](https://fair.work/) - A project working to set and measure standards and certification in the platform economy.
 - [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - Guidelines based on fundamental rights and ethical principles for trustworthy AI systems.
 
 ## Security
@@ -135,7 +135,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [re:consent](https://cliqz.com/en/magazine/re-consent) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/cliqz-oss/re-consent) - Browser plugin that lets you view / change the consent you have given to websites for data processing.
 - [Trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site.
 - [ConsentCookie](https://www.consentcookie.nl/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/humanswitch/consentcookie) - Customizable script that allow users to opt-in for cookies on a case-by-case basis.
-- [GDPR Transparency and Consent Framework](https://iabtechlab.com/standards/gdpr-transparency-and-consent-framework/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) - Specifications to help comply to EU data protection and privacy rules.
+- [GDPR Transparency and Consent Framework](https://iabtechlab.com/standards/gdpr-transparency-and-consent-framework/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) - Specifications to help comply to EU data protection & privacy rules.
 
 ## Analytics
 
