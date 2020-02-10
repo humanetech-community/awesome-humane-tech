@@ -68,6 +68,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
 - [Fairwork Foundation](https://fair.work/) - A project working to set and measure standards and certification in the platform economy.
 - [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - Guidelines based on fundamental rights and ethical principles for trustworthy AI systems.
+- [Ethical Web Dev](https://edri.org/ethical-web-dev/) - A guide for ethical website development and maintenance.
 
 ## Security
 
@@ -151,6 +152,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Koko Analytics](https://www.kokoanalytics.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ibericode/koko-analytics) - Plugin for WordPress that doesn't use external services and respects your visitors’ privacy.
 - [freshlytics](https://freshlytics.gitbook.io/docs/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/sheshbabu/freshlytics) - A self-hosted privacy-friendly, reliable and easy-to-deploy analytics service.
 - [Plausible Insights](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/plausible-insights/plausible) - Simple, lightweight analytics service that respects your visitors' privacy.
+- [Goatcounter](https://www.goatcounter.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/zgoat/goatcounter) - Simple web statistics. No tracking of personal data.
 
 ## Blocklists
 
