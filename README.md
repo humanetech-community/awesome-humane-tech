@@ -255,6 +255,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/WhoTargetsMe/Who-Targets-Me) - A browser extension that tracks which entities are targeting which demographics with adverts.
 - [Where are the Eyes?](https://eyes.daylightingsociety.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/DaylightingSociety/WhereAreTheEyes) - A program for detecting and mapping surveillance cameras.
 - [IMSI-Catcher Detector](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - An Android app to detect IMSI-Catchers aka Stingrays (project in Alpha).
+- [Dogsheep](https://dogsheep.github.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/dogsheep) - Export data from big companies (e.g. Google, Twitter) into Sqlite for personal analytics.
 
 ## Censorship
 
