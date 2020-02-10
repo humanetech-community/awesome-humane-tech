@@ -20,6 +20,7 @@
 - [Social networks](#social-networks)
 - [Freedom](#freedom)
 - [Geolocation](#geolocation)
+- [Internet of Things](#internet-of-things)
 - [Gamification](#gamification)
 - [Health](#health)
 - [Mindfulness](#mindfulness)
@@ -192,6 +193,10 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Mozilla Ichnaea](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/ichnaea) - An API that gets geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Mozilla Stumbler](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location database.
 - [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/QwantResearch/qwantmaps/) - A map application, based on OpenStreetMap, that respects your privacy.
+
+## Internet of Things
+
+- [Home Assistant](https://www.home-assistant.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/home-assistant/home-assistant) - Home automation that puts local control and privacy first.
 
 ## Gamification
 
