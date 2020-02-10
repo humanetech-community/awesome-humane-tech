@@ -285,6 +285,10 @@ This section is for inactive projects that are nonetheless still of interest reg
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) - A curated list of free as in freedom software.
 - [Awesome Ad-Free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the web.
 
+Also check out these sites for great alternatives to the monopolistic big-tech, privacy-invading software you may now be using:
+
+- [degoogle](https://degoogle.jmoore.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
