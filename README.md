@@ -20,6 +20,7 @@
 - [Social networks](#social-networks)
 - [Freedom](#freedom)
 - [Geolocation](#geolocation)
+- [Voice Assistants](#voice-assistants)
 - [Internet of Things](#internet-of-things)
 - [Gamification](#gamification)
 - [Health](#health)
@@ -103,8 +104,6 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Location Privacy](https://guardianproject.info/apps/info.guardianproject.locationprivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/guardianproject/LocationPrivacy) - Privacy filters for shared location links.
 - [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Freeyourgadget/Gadgetbridge) - Replaces gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus and more).
 - [DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - A fully automatic face anonymization technique for images and video.
-- [Almond](https://almond.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/stanford-oval/almond-cloud) - The Stanford open, privacy-preserving virtual assistent.
-
 
 ## Tracking
 
@@ -197,6 +196,11 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Mozilla Ichnaea](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/ichnaea) - An API that gets geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Mozilla Stumbler](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location database.
 - [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/QwantResearch/qwantmaps/) - A map application, based on OpenStreetMap, that respects your privacy.
+
+## Voice Assistants
+
+- [Almond](https://almond.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/stanford-oval/almond-cloud) - The Stanford open, privacy-preserving virtual assistent.
+- [Rhasspy](https://rhasspy.readthedocs.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/synesthesiam/rhasspy) - A fully offline voice assistant toolkit for many languages.
 
 ## Internet of Things
 
