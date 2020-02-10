@@ -162,7 +162,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/matomo-org/referrer-spam-blacklist) - Community-contributed list of referrer spammers.
 - [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/collinbarrett/FilterLists) - Directory of filter and host lists for advertisements, trackers, malware and annoyances.
 - [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - A host and domainname based blocklist specifically designed for use with dnsmasq.
-- [All In One Customized Adblock List](https://hl2guide.github.io/All-in-One-Customized-Adblock-List/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - An adblock list that thoroughly blocks trackers, ads, unwanted cookies, and more.
+- [All In One Customized Adblock List](https://hl2guide.github.io/All-in-One-Customized-Adblock-List/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - Adblock list that thoroughly blocks trackers, ads, unwanted cookies, and more.
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying and distracting web elements from many websites.
 
 ## Social networks
@@ -293,7 +293,7 @@ This section is for inactive projects that are nonetheless still of interest reg
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) - A curated list of free as in freedom software.
 - [Awesome Ad-Free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the web.
 
-Also check out these sites for great alternatives to the monopolistic big-tech, privacy-invading software you may now be using:
+Also check out these sites for great alternatives to the monopolistic, privacy-invading software you may now be using:
 
 - [degoogle](https://degoogle.jmoore.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
