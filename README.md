@@ -62,8 +62,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Data4Democracy/ethics-resources) - Global initiative aimed to adopt our ethical framework and principles into your data work.
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/MKDale/techoath) - An optional oath for building ethically considered experiences.
-- [IoT Design Manifesto](https://www.iotmanifesto.com/) - A code of conduct for everyone involved in developing the Internet of Things
-- [switching.social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to popular social apps.
+- [IoT Design Manifesto](https://www.iotmanifesto.com/) - A code of conduct for everyone involved in developing the Internet of Things.
 - [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
 - [Fairwork Foundation](https://fair.work/) - A project working to set and measure standards and certification in the platform economy.
