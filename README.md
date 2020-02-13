@@ -103,7 +103,6 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Librefox](https://github.com/intika/Librefox) - A project that aims at enforcing privacy and security of Firefox without forking the project.
 - [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/da2x/amp2html) - Browser extension to automatically redirect Accelerated Mobile Pages (AMP) to the actual HTML page.
 - [Location Privacy](https://guardianproject.info/apps/info.guardianproject.locationprivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/guardianproject/LocationPrivacy) - Privacy filters for shared location links.
-- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Freeyourgadget/Gadgetbridge) - Replaces gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus and more).
 - [DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - A fully automatic face anonymization technique for images and video.
 - [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code.
 - [Reveal Frame Component](https://vwochnik.github.io/reveal-frame-component/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/vwochnik/reveal-frame-component) - A privacy-minded iFrame placeholder (JS script). Only loads after user consent.
@@ -213,6 +212,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 ## Internet of Things
 
 - [Home Assistant](https://www.home-assistant.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/home-assistant/home-assistant) - Home automation that puts local control and privacy first.
+- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/Freeyourgadget/Gadgetbridge) - Replaces gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus and more).
 
 ## Gamification
 
