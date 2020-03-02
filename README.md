@@ -152,6 +152,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [freshlytics](https://freshlytics.gitbook.io/docs/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/sheshbabu/freshlytics) - A self-hosted privacy-friendly, reliable and easy-to-deploy analytics service.
 - [Plausible Insights](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/plausible-insights/plausible) - Simple, lightweight analytics service that respects your visitors' privacy.
 - [Goatcounter](https://www.goatcounter.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/zgoat/goatcounter) - Simple web statistics. No tracking of personal data.
+- [Open Web Analytics](http://www.openwebanalytics.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/padams/Open-Web-Analytics) - Stay in control of how you instrument and analyze the use of your websites and application.
 
 ## Blocklists
 
