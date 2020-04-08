@@ -234,6 +234,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Red Moon](https://github.com/LibreShift/red-moon) - An android screen filter app for night time phone use.
 - [Workrave](http://www.workrave.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/rcaelers/workrave) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
 - [Grayscale Mode](https://grayscalemode.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/rkbhochalya/grayscale-mode) - A macOS menu bar app that gives you more control over Grayscale Mode.
+- [FitoTrack](https://codeberg.org/jannis/FitoTrack) - A privacy oriented Android fitness tracker for logging and viewing your workouts.
 
 ## Mindfulness
 
