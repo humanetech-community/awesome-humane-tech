@@ -247,6 +247,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/sandoche/Detoxify-app) - Generate a fake app to replace any addictive app.
 - [Nudge](https://nudgeware.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/lgwb89/nudge) - A Chrome extension that makes the internet less addictive.
 - [SelfControl](https://selfcontrolapp.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/SelfControlApp/selfcontrol) - A macOS app that lets you block your own access to distracting websites and mail servers.
+- [DelayWebPage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/OskarDamkjaer/FirefoxDelayWebpage) - A Firefox add-on that makes you wait before wasting time on the internet.
 
 ## Happiness
 
