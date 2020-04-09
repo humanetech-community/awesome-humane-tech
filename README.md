@@ -139,6 +139,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Trackless](https://github.com/ascorbic/trackless) - Add a GDPR-friendly Google Analytics opt-in/opt-out button to your site.
 - [ConsentCookie](https://www.consentcookie.nl/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/humanswitch/consentcookie) - Customizable script that allow users to opt-in for cookies on a case-by-case basis.
 - [GDPR Transparency and Consent Framework](https://iabtechlab.com/standards/gdpr-transparency-and-consent-framework/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) - Specifications to help comply to EU data protection & privacy rules.
+- [Klaro](https://klaro.kiprotect.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/KIProtect/klaro) - A simple and powerful tool to manage user consent on websites.
 
 ## Analytics
 
