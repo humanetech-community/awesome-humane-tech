@@ -132,6 +132,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/panzi/SocialSharePrivacy) - jQuery plugin for adding social share buttons that don't allow social sites to track users.
 - [EasyList](https://easylist.to/) - Sets of rules (originally designed for Adblock) that automatically remove unwanted content from the internet.
 - [TrackMeNot](https://trackmenot.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/vtoubiana/TrackMeNot) - Browser extension that hides your real search-queries by adding noise and obfuscation.
+- [Deda](https://dfd.inf.tu-dresden.de/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/dfd-tud/deda) - Printer tracking Dots Extraction, Decoding and Anonymisation toolkit.
 
 ## Consent
 
