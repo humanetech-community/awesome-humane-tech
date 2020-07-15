@@ -304,6 +304,7 @@ This section is for inactive projects that are nonetheless still of interest reg
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazing articles, websites and resources about diversity in technology.
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) - A curated list of free as in freedom software.
 - [Awesome Ad-Free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the web.
+- [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
 
 Also check out these sites for great alternatives to the monopolistic, privacy-invading software you may now be using:
 
