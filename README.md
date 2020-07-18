@@ -195,7 +195,8 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/cloudrac3r/bibliogram) - An alternative front-end for Instagram.
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives.
 - [UnTrackMe](https://framagit.org/tom79/nitterizeme) - App that transforms Twitter, YouTube links to Nitter, Invidious and delegates to another app.
-- [FreeTube](https://freetubeapp.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/FreeTubeApp/FreeTube) - A private YouTub client for Windows, MacOS and Linux.
+- [FreeTube](https://freetubeapp.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/FreeTubeApp/FreeTube) - A private YouTube client for Windows, MacOS and Linux.
+- [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) - Browser extension to stay on Latest Tweets timeline, reduce "engagement" and tone down Twitter's UI.
 
 ## Freedom
 
