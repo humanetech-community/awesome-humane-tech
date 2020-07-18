@@ -190,6 +190,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/zedeus/nitter) - An alternative Twitter front-end focused on privacy.
 - [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) - Firefox extension that redirects YouTube and Twitter requests to their alternatives.
 - [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/cloudrac3r/bibliogram) - An alternative front-end for Instagram.
+- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives.
 
 ## Freedom
 
