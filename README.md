@@ -107,6 +107,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Reveal Frame Component](https://vwochnik.github.io/reveal-frame-component/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/vwochnik/reveal-frame-component) - A privacy-minded iFrame placeholder (JS script). Only loads after user consent.
 - [FreedomBox](https://freedombox.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://salsa.debian.org/freedombox-team/plinth) - Easy to manage, privacy oriented home server.
 - [EteSync](https://www.etesync.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/etesync) - Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars and tasks.
+- [Image Scrubber](https://github.com/everestpipkin/image-scrubber) - A browser-based tool for anonymizing photographs and scrubbing EXIF metadata.
 
 ## Tracking
 
