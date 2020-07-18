@@ -197,6 +197,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives.
 - [UnTrackMe](https://framagit.org/tom79/nitterizeme) - App that transforms Twitter, YouTube links to Nitter, Invidious and delegates to another app.
 - [FreeTube](https://freetubeapp.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/FreeTubeApp/FreeTube) - A private YouTube client for Windows, MacOS and Linux.
+- [NewPipe](https://newpipe.schabi.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming YouTube alternative for Android.
 - [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) - Browser extension to stay on Latest Tweets timeline, reduce "engagement" and tone down Twitter's UI.
 
 ## Freedom
