@@ -240,6 +240,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Grayscale Mode](https://grayscalemode.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/rkbhochalya/grayscale-mode) - A macOS menu bar app that gives you more control over Grayscale Mode.
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack) - A privacy oriented Android fitness tracker for logging and viewing your workouts.
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - A sport tracking application that completely respects your privacy.
+- [Winddown](https://github.com/schneefux/vscode-winddown) - Write code and stay healthy. A VS Code extension that encourages you to take a break.
 
 ## Mindfulness
 
