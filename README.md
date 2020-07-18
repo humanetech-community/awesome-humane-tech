@@ -168,6 +168,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - A host and domainname based blocklist specifically designed for use with dnsmasq.
 - [All In One Customized Adblock List](https://hl2guide.github.io/All-in-One-Customized-Adblock-List/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - Adblock list that thoroughly blocks trackers, ads, unwanted cookies, and more.
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying and distracting web elements from many websites.
+- [Wiper](https://github.com/davidahmed/wiper) - Firefox extension that strips Google search results based on a blocklist you define.
 
 ## Social networks
 
