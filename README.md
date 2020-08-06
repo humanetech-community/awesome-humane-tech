@@ -44,7 +44,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Community
 
-[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/main/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
 Our vision is: **Ubiquitous Humane Technology that Stimulates Humans to Flourish and Humanity to Thrive.**
 
