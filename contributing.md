@@ -31,6 +31,16 @@ You'll need a [GitHub account](https://github.com/join)!
 4. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 5. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
+## After you were added
+
+If you make it into the list, then you are entitled to proudly wear the 'humanetech' badge on your project README, by including the following after the README &lt;H1&gt; title, or directly below:
+
+```markdown
+[![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
+```
+
+Which will show up as this badge: [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
+
 ## Updating your Pull Request
 
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.

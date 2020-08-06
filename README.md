@@ -1,4 +1,4 @@
-# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
+# Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
 
 <br/><br/>
 
