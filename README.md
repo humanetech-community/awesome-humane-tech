@@ -44,7 +44,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Community
 
-[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
 Our vision is: **Ubiquitous Humane Technology that Stimulates Humans to Flourish and Humanity to Thrive.**
 
@@ -248,6 +248,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack) - A privacy oriented Android fitness tracker for logging and viewing your workouts.
 - [OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - A sport tracking application that completely respects your privacy.
 - [Winddown](https://github.com/schneefux/vscode-winddown) - Write code and stay healthy. A VS Code extension that encourages you to take a break.
+- [dijo](https://github.com/NerdyPepper/dijo) - A scriptable habit tracker that runs in your terminal.
 
 ## Mindfulness
 
