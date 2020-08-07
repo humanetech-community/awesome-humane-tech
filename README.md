@@ -199,6 +199,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [FreeTube](https://freetubeapp.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/FreeTubeApp/FreeTube) - A private YouTube client for Windows, MacOS and Linux.
 - [NewPipe](https://newpipe.schabi.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming YouTube alternative for Android.
 - [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) - Browser extension to stay on Latest Tweets timeline, reduce "engagement", tone down UI.
+- [InstaGrabber](https://instagrabber.austinhuang.me) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/austinhuang0131/instagrabber) - A libre, alternative, and lightweight Instagram client for Android.
 
 ## Freedom
 
