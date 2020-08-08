@@ -209,6 +209,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/da2x/EdgeDeflector) - Force Windows 10 to use your preferred web browser instead of Microsoft Edge.
 - [Wayback Everywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/main/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/main/README.md)- Redirect all pages to snapshots in Wayback Machine and auto-save pages.
 - [996.ICU](https://github.com/996icu/996.ICU) - Collection of resources advocating against 996 work schedule (9am – 9pm, 6 days per week).
+- [DeGoogle-FOSS](https://codeberg.org/ReverseEagle/DeGoogle-FOSS) - A list of free and open source software containing proprietary Google binaries.
 
 ## Geolocation
 
