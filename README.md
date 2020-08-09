@@ -53,6 +53,8 @@ Our mision is: [**To Help Improve Wellbeing, Freedom and Society!**](https://com
 
 We gladly invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about interesting Humane Technology subjects, participate in our discussions, and become a true :heart:  _Humane Tech Activist!_
 
+You can also follow us on the fediverse at [@humanetech@mastodon.social](https://mastodon.social/@humanetech).
+
 ## Ethics
 
 - [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) - Machine Learning and Data Science discrimination, bias and ethics.
