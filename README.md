@@ -41,6 +41,10 @@ This list aggregates open-source projects that are directly related to humane te
 
 > **Important**: The resources presented below were collected in good faith by the contributors to this list in hopes they may prove useful to you. But as per the [License](#license) we can give no guarantees on the quality or fitness of the software that is referenced. So inform yourself properly before installing anything, and if you encounter something that is inappropriate or wrong, then please file an issue in our [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
 
+### Wear our [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech) badge
+
+If your project is on this list then you are entitled to proudly wear our humanetech badge. See [instructions](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md#after-you-were-added).
+
 ## Community
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
