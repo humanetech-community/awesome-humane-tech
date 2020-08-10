@@ -112,6 +112,7 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 - [EteSync](https://www.etesync.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/etesync) - Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars and tasks.
 - [Image Scrubber](https://github.com/everestpipkin/image-scrubber) - A browser-based tool for anonymizing photographs and scrubbing EXIF metadata.
 - [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) - A browser extension that emulates Content Delivery Networks to improve your online privacy.
+- [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) - Debloat non-rooted smartphones, to improve privacy, security and battery life.
 
 ## Tracking
 
