@@ -206,7 +206,7 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 - [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) - Browser extension to stay on Latest Tweets timeline, reduce "engagement", tone down UI.
 - [InstaGrabber](https://instagrabber.austinhuang.me) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/austinhuang0131/instagrabber) - A libre, alternative, and lightweight Instagram client for Android.
 - [SocialAmnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Electron app to ensure your social media accounts only show your posts from recent history.
-- [YouTubeSearchFixer](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/phoennix/youtubesearchfix) - Firefox addon to fix YouTube search, de-clutter home page and interface to make it less distracting.
+- [YouTubeSearchFixer](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/phoennix/youtubesearchfix) - Firefox addon to fix search, de-clutter home page and make UI less distracting.
 
 ## Freedom
 
@@ -235,6 +235,7 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 
 - [Home Assistant](https://www.home-assistant.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/home-assistant/home-assistant) - Home automation that puts local control and privacy first.
 - [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/Freeyourgadget/Gadgetbridge) - Replace gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus, etc).
+- [Gladys Assistant](https://gladysassistant.com/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/gladysassistant/gladys) - A privacy-first, open-source home assistant.
 
 ## Gamification
 
