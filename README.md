@@ -205,6 +205,7 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 - [NewPipe](https://newpipe.schabi.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming YouTube alternative for Android.
 - [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) - Browser extension to stay on Latest Tweets timeline, reduce "engagement", tone down UI.
 - [InstaGrabber](https://instagrabber.austinhuang.me) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/austinhuang0131/instagrabber) - A libre, alternative, and lightweight Instagram client for Android.
+- [SocialAmnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Electron app to ensure your social media accounts only show your posts from recent history.
 
 ## Freedom
 
