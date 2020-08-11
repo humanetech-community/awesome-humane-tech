@@ -17,6 +17,7 @@
 - [Consent](#consent)
 - [Analytics](#analytics)
 - [Blocklists](#blocklists)
+- [Fediverse](#fediverse)
 - [Social networks](#social-networks)
 - [Freedom](#freedom)
 - [Geolocation](#geolocation)
@@ -177,15 +178,27 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 - [Wiper](https://github.com/davidahmed/wiper) - Firefox extension that strips Google search results based on a blocklist you define.
 - [EasyList](https://easylist.to/) - Sets of rules that automatically remove unwanted content from the internet.
 
-## Social networks
+## Fediverse
+
+The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope for humane technology with regards to social networks. Below only the most well-known applications (taken from [fediverse.party](https://fediverse.party) front-page) are included. See the [Feneas Watchlists](https://git.feneas.org/feneas/fediverse/-/wikis/home#watchlists) for a complete overview.
 
 - [Mastodon](https://joinmastodon.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
+- [Pleroma](https://pleroma.social/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.pleroma.social/pleroma/pleroma/) - A free, federated social microblogging server built on open protocols.
+- [PixelFed](https://pixelfed.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation.
+- [PeerTube](https://joinpeertube.org/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
+- [Funkwhale](https://funkwhale.audio/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://dev.funkwhale.audio/funkwhale) - A federated social platform to enjoy and share music.
+- [Socialhome](https://socialhome.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/jaywink/socialhome) - A federated personal profile with social networking functionality.
+- [Misskey](https://join.misskey.page/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/syuilo/misskey) - A forever evolving, sophisticated microblogging platform.
 - [Diaspora](https://diasporafoundation.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+- [friendica](https://friendi.ca/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/friendica/friendica) - A decentralized social communications platform.
+- [GNU Social](https://gnusocial.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://notabug.org/diogo/gnu-social) - The free/libre software social networking platform.
+
+## Social networks
+
 - [Humnub](http://www.humhub.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/humhub/humhub) - A feature rich and highly flexible open-source Social Network Kit written in PHP.
 - [Patchwork](https://www.scuttlebutt.nz/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 - [Pump.io](http://pump.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/pump-io/pump.io) - A stream server that does most of what people really want from a social network.
 - [Voten](https://voten.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/voten-co/voten) - An open-source, beautiful, highly customizable yet deadly simple, and warm community.
-- [Socialhome](https://socialhome.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/jaywink/socialhome) - A federated personal profile with social networking functionality.
 - [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/bengrosser/facebook-demetricator) - A web browser extension that removes all the metrics from the Facebook interface.
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/bengrosser/twitter-demetricator) - A web browser extension that removes all the metrics on Twitter.
 - [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) - A browser extension that replaces your Facebook news feed with a nice quote.
