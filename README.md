@@ -180,7 +180,7 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 
 ## Fediverse
 
-The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope for humane technology with regards to social networks. Below only the most well-known applications (taken from [fediverse.party](https://fediverse.party) front-page) are included. See the [Feneas Watchlists](https://git.feneas.org/feneas/fediverse/-/wikis/home#watchlists) for a complete overview.
+The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope for humane technology with regards to social networks. Only most well-known applications (taken from [fediverse.party](https://fediverse.party) front-page) are shown. See [Feneas Watchlists](https://git.feneas.org/feneas/fediverse/-/wikis/home#watchlists) for a complete overview.
 
 - [Mastodon](https://joinmastodon.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
 - [Pleroma](https://pleroma.social/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.pleroma.social/pleroma/pleroma/) - A free, federated social microblogging server built on open protocols.
