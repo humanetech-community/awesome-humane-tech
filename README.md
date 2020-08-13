@@ -302,6 +302,11 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Buster](https://github.com/dessant/buster) - Browser extension and Captcha Solver for Humans.
 - [The A11Y Project](https://a11yproject.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/a11yproject/a11yproject.com) - A community-driven effort to make web accessibility easier.
 
+Deaf and Hard of Hearing accessibility resources:
+
+- [Remote Workplace Communications Access](https://www.nad.org/remote-workplace-communications-access-for-employers/) - Recommendations for Employers During Times of Expanded Telework.
+- [Improving Virtual Workspace Meetings](https://www.deafhhtech.org/rerc/accessible-virtual-meeting-tips/) - Accessibility Tips for a Better Virtual Meeting Experience.
+
 ## Awareness
 
 - [Hack the Media](https://github.com/nemild/hack-the-media) - Media literacy guide highlighting how our media sources can give a flawed worldview.
