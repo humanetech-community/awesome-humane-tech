@@ -73,6 +73,7 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 - [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - Guidelines based on fundamental rights and ethical principles for trustworthy AI.
 - [Ethical Web Dev](https://edri.org/ethical-web-dev/) - A guide for ethical website development and maintenance.
 - [Declaration of Digital Autonomy](https://techautonomy.org/) - Our technology must respect the rights and freedoms of people who use it.
+- [A New Digital Manifesto](https://anewdigitalmanifesto.com) - Our inalienable rights within the digital age.
 
 ## Security
 
