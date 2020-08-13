@@ -10,6 +10,7 @@
 
 - [About this list](#about-this-list)
 - [Community](#community)
+- [Humane design](#humane-design)
 - [Ethics](#ethics)
 - [Security](#security)
 - [Privacy](#privacy)
@@ -55,6 +56,12 @@ Our mision is: [**To Help Improve Wellbeing, Freedom and Society!**](https://com
 We gladly invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about interesting Humane Technology subjects, participate in our discussions, and become a true :heart:  _Humane Tech Activist!_
 
 You can also follow us on the fediverse at [@humanetech@mastodon.social](https://mastodon.social/@humanetech).
+
+## Humane design
+
+Humane design is a subset of humane technology and an upcoming field in information technology. Resources in this space are tracked separately in a curated list that is part of the [delightful project](https://codeberg.org/teaserbot-labs/delightful) on Codeberg.
+
+- [delightful-humane-design](https://codeberg.org/teaserbot-labs/delightful-humane-design) - A curated list of humane design resources for UX designers and developers.
 
 ## Ethics
 
@@ -304,7 +311,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 
 Deaf and Hard of Hearing accessibility resources:
 
-- [Remote Workplace Communications Access](https://www.nad.org/remote-workplace-communications-access-for-employers/) - Recommendations for Employers During Times of Expanded Telework.
+- [Remote Workplace Communications Access](https://www.nad.org/remote-workplace-communications-access-for-employers/) - Recommendations for Employers In Times of Expanded Telework.
 - [Improving Virtual Workspace Meetings](https://www.deafhhtech.org/rerc/accessible-virtual-meeting-tips/) - Accessibility Tips for a Better Virtual Meeting Experience.
 
 ## Awareness
