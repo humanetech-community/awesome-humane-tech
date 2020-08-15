@@ -90,6 +90,7 @@ Humane design is a subset of humane technology and an upcoming field in informat
 - [PRISM Break](https://prism-break.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
 - [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/google/password-alert) - Chrome extension by Google that warns about phishing attempts to your Google Account.
 - [Warn Common Password](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/main/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/main/README.md)- Addon to protect us from common passwords via bundled _offline_ list 500006 entries
+- [Android Mobile Device Hardening](https://github.com/SecTheTech/AMDH) - Hardening non-rooted Android phones, settings and applications hardening and malware detection.
 
 ## Privacy
 
