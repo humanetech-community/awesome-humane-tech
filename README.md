@@ -84,12 +84,9 @@ Humane design is a subset of humane technology and an upcoming field in informat
 
 ## Security
 
-- [NoScript Security Suite](https://noscript.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hackademix/noscript) - Mozilla-based browser plugin to only allow active content from white-listed websites.
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/EFForg/https-everywhere) - Encrypts communications with many major websites, making browsing more secure.
-- [Security Checklist](https://securitycheckli.st/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/brianlovin/security-checklist) - Checklist of resources designed to improve your online privacy and security.
-- [PRISM Break](https://prism-break.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
-- [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/google/password-alert) - Chrome extension by Google that warns about phishing attempts to your Google Account.
-- [Warn Common Password](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/main/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/main/README.md)- Addon to protect us from common passwords via bundled _offline_ list 500006 entries
+Security is an important aspect of humane technology. It is also a vast field we leave to the experts. For a good top-level entrypoint please refer to:
+
+- [awesome security](https://github.com/sbilly/awesome-security) - Software, libraries, documents, books, resources and cool stuff about security.
 
 ## Privacy
 
