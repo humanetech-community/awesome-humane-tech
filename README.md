@@ -8,32 +8,36 @@
 
 ## Contents
 
-- [About this list](#about-this-list)
-- [Community](#community)
-- [Humane design](#humane-design)
-- [Ethics](#ethics)
-- [Security](#security)
-- [Privacy](#privacy)
-- [Tracking](#tracking)
-- [Consent](#consent)
-- [Analytics](#analytics)
-- [Blocklists](#blocklists)
-- [Fediverse](#fediverse)
-- [Social networks](#social-networks)
-- [Freedom](#freedom)
-- [Geolocation](#geolocation)
-- [Voice Assistants](#voice-assistants)
-- [Internet of Things](#internet-of-things)
-- [Gamification](#gamification)
-- [Health](#health)
-- [Mindfulness](#mindfulness)
-- [Inclusiveness](#inclusiveness)
-- [Awareness](#awareness)
-- [Censorship](#censorship)
-- [Unmaintained](#unmaintained)
-- [Related awesomeness](#related-awesomeness)
-- [Contributing](#contributing)
-- [License](#license)
+- [Awesome Humane Tech ![Awesome](https://github.com/sindresorhus/awesome) [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)](#awesome-humane-tech-img-srchttpsawesomerebadgesvg-altawesome-img-srchttpsrawgithubusercontentcomhumanetech-communityawesome-humane-techmainhumane-tech-badgesvgsanitizetrue-altawesome-humane-tech)
+  - [Contents](#contents)
+  - [About this list](#about-this-list)
+    - [Wear our ![Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech) badge](#wear-our-img-srchttpsrawgithubusercontentcomhumanetech-communityawesome-humane-techmainhumane-tech-badgesvgsanitizetrue-altawesome-humane-tech-badge)
+  - [Community](#community)
+  - [Humane design](#humane-design)
+  - [Ethics](#ethics)
+  - [Security](#security)
+  - [Privacy](#privacy)
+  - [Tracking](#tracking)
+  - [Consent](#consent)
+  - [Analytics](#analytics)
+  - [Blocklists](#blocklists)
+  - [Fediverse](#fediverse)
+  - [Social networks](#social-networks)
+  - [Freedom](#freedom)
+  - [Geolocation](#geolocation)
+  - [Voice Assistants](#voice-assistants)
+  - [Internet of Things](#internet-of-things)
+  - [Gamification](#gamification)
+  - [Health](#health)
+  - [Mindfulness](#mindfulness)
+  - [Happiness](#happiness)
+  - [Inclusiveness](#inclusiveness)
+  - [Awareness](#awareness)
+  - [Censorship](#censorship)
+  - [Unmaintained](#unmaintained)
+  - [Related awesomeness](#related-awesomeness)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## About this list
 
@@ -51,9 +55,9 @@ If your project is on this list then you are entitled to proudly wear our humane
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
-Our mision is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
+Our mision is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322)
 
-We gladly invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about interesting Humane Technology subjects, participate in our discussions, and become a true :heart:  _Humane Tech Activist!_
+We gladly invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about interesting Humane Technology subjects, participate in our discussions, and become a true :heart: _Humane Tech Activist!_
 
 You can also follow us on the fediverse at [@humanetech@mastodon.social](https://mastodon.social/@humanetech).
 
@@ -68,7 +72,7 @@ Humane design is a subset of humane technology and an upcoming field in informat
 - [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) - Machine Learning and Data Science discrimination, bias and ethics.
 - [WikiTruth](https://wikitruth.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - An ethics oath for programmers, comparable to the Hippocratic Oath.
-- [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://source.ind.ie/site/2017) - The Maslov Pyramid of Needs for sites and projects practicing ethical design.
+- [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://source.ind.ie/site/2017) - The Maslow's Hierarchy of Needs for sites and projects practicing ethical design.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 - [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Data4Democracy/ethics-resources) - Global initiative aimed to adopt our ethical framework and principles into your data work.
@@ -331,7 +335,7 @@ Deaf and Hard of Hearing accessibility resources:
 ## Censorship
 
 - [OONI Probe](https://ooni.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (first read [risks](https://ooni.io/about/risks/)).
-- [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - An anti-censorship utility designed to bypass ISPs that block access to certain websites. 
+- [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - An anti-censorship utility designed to bypass ISPs that block access to certain websites.
 
 ## Unmaintained
 
