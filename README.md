@@ -171,6 +171,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [Shynet](https://github.com/milesmcc/shynet) - Privacy-friendly and detailed web analytics that works without cookies or JS.
 - [PostHog](https://posthog.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/PostHog/posthog) - Developer-friendly, open-source product analytics.
 - [umami](https://umami.is/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mikecao/umami) - A simple, fast, website analytics alternative to Google Analytics.
+- [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/eldy/awstats) - Free real-time logfile analyzer to get advanced statistics.
 
 ## Blocklists
 
