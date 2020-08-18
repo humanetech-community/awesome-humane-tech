@@ -284,7 +284,6 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 ## Mindfulness
 
 - [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mindfulness-at-the-computer/mindfulness-at-the-computer) - Helps you stay mindful of your breathing while using your computer.
-- [Breathe](http://breatheforpebble.tk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/cheeseisdisgusting/exhale) - Take a moment to breathe. A Pebble app for breathing, written in C.
 - [Chomper](https://addictedto.tech/chomper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/aniketpanjwani/chomper) - Internet blocker for Linux with allowLists/blockLists and timer to be more productive at work.
 - [Jobs Done](https://jobs-done.now.sh/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/skidding/jobs-done) - A ritual app for ending the work day inspired by Deep Work.
 - [Break Timer](https://github.com/tom-james-watson/breaktimer) - A Chrome / Firefox extension for taking periodic breaks, prevent RSI, eye-strain and tiredness.
@@ -342,6 +341,7 @@ This section is for inactive projects that are nonetheless still of interest reg
 
 - [Wi-Fi Privacy Police](https://github.com/BramBonne/privacypolice) - Prevent smartphone or tablet from leaking privacy sensitive information via Wi-Fi networks.
 - [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/d4t4x/data-selfie) - Track yourself on Facebook and analyze your data (server [discontinued](https://dataselfie.it/#/shutdown), code still usable).
+- [Breathe](http://breatheforpebble.tk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/cheeseisdisgusting/exhale) - Take a moment to breathe. A Pebble app for breathing, written in C.
 
 ## Related awesomeness
 
