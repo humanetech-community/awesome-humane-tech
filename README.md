@@ -51,7 +51,7 @@ If your project is on this list then you are entitled to proudly wear our humane
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
-Our mision is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
+Our mission is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
 
 We gladly invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about interesting Humane Technology subjects, participate in our discussions, and become a true :heart:  _Humane Tech Activist!_
 
