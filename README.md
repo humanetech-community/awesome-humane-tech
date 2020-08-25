@@ -304,7 +304,6 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 
 ## Inclusiveness
 
-- [Post-Meritocracy Manifesto](https://postmeritocracy.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
 - [AlexJS](https://alexjs.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [Buster](https://github.com/dessant/buster) - Browser extension and Captcha Solver for Humans.
 - [The A11Y Project](https://a11yproject.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/a11yproject/a11yproject.com) - A community-driven effort to make web accessibility easier.
