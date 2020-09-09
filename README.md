@@ -158,7 +158,6 @@ Security is an important aspect of humane technology. It is also a vast field we
 ## Analytics
 
 - [Matomo](https://matomo.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/matomo-org/matomo) - The leading open alternative to Google Analytics that gives you full control over your data.
-- [Fathom](https://usefathom.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/usefathom/fathom) - A simpler and more privacy-focused alternative to Google Analytics.
 - [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
 - [GoAccess](https://goaccess.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/allinurl/goaccess) - A real-time web log analyzer and interactive viewer that runs in a terminal or in a browser.
 - [Countly](https://count.ly/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Countly/countly-server) - A real-time, mobile & web analytics, rich push notifications and crash reporting platform.
