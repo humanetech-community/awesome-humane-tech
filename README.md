@@ -81,6 +81,7 @@ Humane design is a subset of humane technology and an upcoming field in informat
 - [Ethical Web Dev](https://edri.org/ethical-web-dev/) - A guide for ethical website development and maintenance.
 - [Declaration of Digital Autonomy](https://techautonomy.org/) - Our technology must respect the rights and freedoms of people who use it.
 - [A New Digital Manifesto](https://anewdigitalmanifesto.com) - Our inalienable rights within the digital age.
+- [Society Centered Design](https://societycentered.design/) - Move beyond human-centered design. We must design for the collective, for society.
 
 ## Security
 
