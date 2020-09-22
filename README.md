@@ -317,7 +317,7 @@ Deaf and Hard of Hearing accessibility resources:
 ## Awareness
 
 - [Hack the Media](https://github.com/nemild/hack-the-media) - Media literacy guide highlighting how our media sources can give a flawed worldview.
-- [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/nemild/hack-the-media/blob/main/software-engineers-media-guide.md) - A media literacy guide for software engineers.
+- [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/nemild/hack-the-media/blob/master/software-engineers-media-guide.md) - A media literacy guide for software engineers.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze the Facebook copy of your own data.
 - [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 - [Who Tracks Me](https://whotracks.me/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/cliqz-oss/whotracks.me) - Bringing Transparency to online tracking - built by Cliqz and Ghostery.
