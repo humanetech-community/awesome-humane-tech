@@ -62,6 +62,7 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 Humane design is a subset of humane technology and an upcoming field in information technology. Resources in this space are tracked separately in a curated list that is part of the [delightful project](https://codeberg.org/teaserbot-labs/delightful) on Codeberg.
 
 - [delightful-humane-design](https://codeberg.org/teaserbot-labs/delightful-humane-design) - A curated list of humane design resources for UX designers and developers.
+- [delightful-humane-ai](https://codeberg.org/teaserbot-labs/delightful-humane-ai) - A curated list of open humane artificial intelligence resources.
 
 ## Ethics
 
