@@ -254,6 +254,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 
 - [Almond](https://almond.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/stanford-oval/almond-cloud) - The Stanford open, privacy-preserving virtual assistent.
 - [Rhasspy](https://rhasspy.readthedocs.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/synesthesiam/rhasspy) - A fully offline voice assistant toolkit for many languages.
+- [Mycroft AI](https://mycroft.ai/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/MycroftAI) - The open and private voice assistant.
 
 ## Internet of Things
 
