@@ -174,6 +174,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [umami](https://umami.is/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mikecao/umami) - A simple, fast, website analytics alternative to Google Analytics.
 - [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/eldy/awstats) - Free real-time logfile analyzer to get advanced statistics.
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/offen/offen) - Fair web analytics. Gain insights while your users have full control over their data.
+- [Kindmetrics](https://kindmetrics.io)  [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/kindmetrics/kindmetrics) - Privacy focused website analytics made in Crystal - Hosted in the EU.
 
 
 ## Blocklists
