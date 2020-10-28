@@ -7,7 +7,7 @@
 
 If your suggested entry is code project:
 
-- [ ] I have checked that the project is open source and has a a [FSF-approved](https://www.gnu.org/licenses/license-list.html) license.
+- [ ] I have checked that the project is open source and has a [FSF-approved](https://www.gnu.org/licenses/license-list.html) license.
 
 <!-- This is needed to maintain the list's history appear incrementally updating for future reference. -->
 <!-- Every entry added to Humane Awesome list is important to the welfare of the society/species 
