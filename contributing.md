@@ -3,6 +3,7 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
+- Code projects must be open source and have a [FSF-approved](https://www.gnu.org/licenses/license-list.html) license.
 - Suggested entries should refer to tested and documented code
 - Projects should be relevant to the topic and (preferably) under active development.
 - Make an individual pull request for each suggestion.
@@ -15,7 +16,8 @@ Please ensure your pull request adheres to the following guidelines:
 Markdown format to use for new entries (see existing examples):
 
 - If there is only a repository, use the following format: `[NAME](REPO-LINK) - DESCRIPTION.`
-- If there is a website and a repositry, use the following format: `[NAME](WEBSITE-LINK) | [GITHUB-ICON](REPO-LINK) - DESCRIPTION`
+- If there is a website and a repository, use the following format: `[NAME](WEBSITE-LINK) | [GITHUB-ICON](REPO-LINK) - DESCRIPTION`
+  - Use the appropriate icon i.e.`github.svg`, `gitlab.svg`. `gitea.svg` or `sourcehut.svg`.
 
 Thank you for your suggestions!
 

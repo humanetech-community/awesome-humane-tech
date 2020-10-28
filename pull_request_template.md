@@ -4,6 +4,11 @@
 - [ ] I have read the contribution guidelines [here](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md)
 - [ ] I have read the code of conduct and I agree to adhere to the same [here](https://github.com/humanetech-community/awesome-humane-tech/blob/main/code-of-conduct.md)
 - [ ] I have added my entry as the latest (last dotted point) under a topic, not at the beginning, not interleaved. 
+
+If your suggested entry is code project:
+
+- [ ] I have checked that the project is open source and has a a [FSF-approved](https://www.gnu.org/licenses/license-list.html) license.
+
 <!-- This is needed to maintain the list's history appear incrementally updating for future reference. -->
 <!-- Every entry added to Humane Awesome list is important to the welfare of the society/species 
 <!-- .. and hence we use dotted list, not numerical list which may imply order --> 
