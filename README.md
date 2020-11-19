@@ -286,7 +286,6 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Winddown](https://github.com/schneefux/vscode-winddown) - Write code and stay healthy. A VS Code extension that encourages you to take a break.
 - [dijo](https://github.com/NerdyPepper/dijo) - A scriptable habit tracker that runs in your terminal.
 - [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/goldencheetah/goldencheetah) - Performance software for Cyclists, Runners and Triathletes that reads from many devices.
-- [Safe Eyes](https://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/slgobinath/SafeEyes) - A tool for Linux users to reduce and prevent repetitive strain injury (RSI).
 
 ## Mindfulness
 
