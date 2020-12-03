@@ -59,10 +59,10 @@ You can also follow us on the fediverse at [@humanetech@mastodon.social](https:/
 
 ## Humane design
 
-Humane design is a subset of humane technology and an upcoming field in information technology. Resources in this space are tracked separately in a curated list that is part of the [delightful project](https://codeberg.org/teaserbot-labs/delightful) on Codeberg.
+Humane design is a subset of humane technology and an upcoming field in information technology. Resources in this space are tracked separately in a curated list that is part of the [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) on Codeberg.
 
-- [delightful-humane-design](https://codeberg.org/teaserbot-labs/delightful-humane-design) - A curated list of humane design resources for UX designers and developers.
-- [delightful-small-ai](https://codeberg.org/teaserbot-labs/delightful-small-ai) - A curated list of open humane artificial intelligence resources.
+- [delightful-humane-design <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-humane-design) - A curated list of humane design resources for UX designers and developers.
+- [delightful-small-ai <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-small-ai) - A curated list of open humane artificial intelligence resources.
 
 ## Ethics
 
@@ -121,7 +121,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [FreedomBox](https://freedombox.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://salsa.debian.org/freedombox-team/plinth) - Easy to manage, privacy oriented home server.
 - [EteSync](https://www.etesync.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/etesync) - Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars and tasks.
 - [Image Scrubber](https://github.com/everestpipkin/image-scrubber) - A browser-based tool for anonymizing photographs and scrubbing EXIF metadata.
-- [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) - A browser extension that emulates Content Delivery Networks to improve your online privacy.
+- [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) - A browser extension that emulates Content Delivery Networks to improve your online privacy.
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) - Debloat non-rooted smartphones, to improve privacy, security and battery life.
 
 ## Tracking
@@ -221,7 +221,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Invidious](https://invidio.us) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/iv-org/invidious) - An alternative front-end to YouTube without Ads.
 - [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/deltachat) - Decentralized Whatsapp-like chat via email, without the tracking and central control.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/zedeus/nitter) - An alternative Twitter front-end focused on privacy.
-- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) - Firefox extension that redirects YouTube and Twitter requests to their alternatives.
+- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) - Firefox extension that redirects YouTube and Twitter requests to their alternatives.
 - [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://sr.ht/~cadence/bibliogram/) - An alternative front-end for Instagram.
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives.
 - [UnTrackMe](https://framagit.org/tom79/nitterizeme) - App that transforms Twitter, YouTube links to Nitter, Invidious and delegates to another app.
@@ -240,7 +240,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/da2x/EdgeDeflector) - Force Windows 10 to use your preferred web browser instead of Microsoft Edge.
 - [Wayback Everywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)- Redirect all pages to snapshots in Wayback Machine and auto-save pages.
 - [996.ICU](https://github.com/996icu/996.ICU) - Collection of resources advocating against 996 work schedule (9am – 9pm, 6 days per week).
-- [DeGoogle-FOSS](https://codeberg.org/ReverseEagle/DeGoogle-FOSS) - A list of free and open source software containing proprietary Google binaries.
+- [DeGoogle-FOSS <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/ReverseEagle/DeGoogle-FOSS) - A list of free and open source software containing proprietary Google binaries.
 
 ## Geolocation
 
@@ -261,7 +261,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 ## Internet of Things
 
 - [Home Assistant](https://www.home-assistant.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/home-assistant/home-assistant) - Home automation that puts local control and privacy first.
-- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/Freeyourgadget/Gadgetbridge) - Replace gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus, etc).
+- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/Freeyourgadget/Gadgetbridge) - Replace gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus, etc).
 - [Gladys Assistant](https://gladysassistant.com/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/gladysassistant/gladys) - A privacy-first, open-source home assistant.
 
 ## Gamification
@@ -282,7 +282,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Red Moon](https://github.com/LibreShift/red-moon) - An android screen filter app for night time phone use.
 - [Workrave](https://workrave.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/rcaelers/workrave) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
 - [Grayscale Mode](https://grayscalemode.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/rkbhochalya/grayscale-mode) - A macOS menu bar app that gives you more control over Grayscale Mode.
-- [FitoTrack](https://codeberg.org/jannis/FitoTrack) - A privacy oriented Android fitness tracker for logging and viewing your workouts.
+- [FitoTrack <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/jannis/FitoTrack) - A privacy oriented Android fitness tracker for logging and viewing your workouts.
 - [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/OpenTracksApp/OpenTracks) - A sport tracking application that completely respects your privacy.
 - [Winddown](https://github.com/schneefux/vscode-winddown) - Write code and stay healthy. A VS Code extension that encourages you to take a break.
 - [dijo](https://github.com/NerdyPepper/dijo) - A scriptable habit tracker that runs in your terminal.
@@ -369,10 +369,10 @@ This section is for inactive projects that are nonetheless still of interest reg
 Also check out these sites for great alternatives to the monopolistic, privacy-invading software you may now be using:
 
 - [degoogle](https://degoogle.jmoore.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
+- [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
 - [ReverseEagle-Developers](https://developers.reverseeagle.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://forge.tedomum.net/ReverseEagle/developers) - Privacy-conscious, ethical and safer alternatives to software for developers.
 - [ethical.net](https://ethical.net/resources/) - Ethical alternatives & resources.
-- [delightful project](https://codeberg.org/teaserbot-labs/delightful) - Similar to awesome project, but only for FOSS, Open Data and Open Science.
+- [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) - Similar to awesome project, but only for FOSS, Open Data and Open Science.
 
 ## Contributing
 
