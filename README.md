@@ -84,6 +84,7 @@ Humane design is a subset of humane technology and an upcoming field in informat
 - [A New Digital Manifesto](https://anewdigitalmanifesto.com) - Our inalienable rights within the digital age.
 - [Society Centered Design](https://societycentered.design/) - Move beyond human-centered design. We must design for the collective, for society.
 - [The Hippocratic License](https://firstdonoharm.dev/) - An open source license for developers to enforce the ethical use of their code.
+- [The Ethical Source Movement](https://ethicalsource.dev/) - A community that practices Ethical Open Source principles for its projects.
 
 ## Security
 
