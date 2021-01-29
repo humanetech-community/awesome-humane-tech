@@ -79,7 +79,7 @@ Humane design is a subset of humane technology and an upcoming field in informat
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
 - [Fairwork Foundation](https://fair.work/) - A project working to set and measure standards and certification in the platform economy.
 - [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - Guidelines based on fundamental rights and ethical principles for trustworthy AI.
-- [Ethical Web Dev](https://edri.org/ethical-web-dev/) - A guide for ethical website development and maintenance.
+- [Ethical Web Dev](https://edri.org/our-work/ethical-web-dev-2/) - A guide for ethical website development and maintenance.
 - [Declaration of Digital Autonomy](https://techautonomy.org/) - Our technology must respect the rights and freedoms of people who use it.
 - [A New Digital Manifesto](https://anewdigitalmanifesto.com) - Our inalienable rights within the digital age.
 - [Society Centered Design](https://societycentered.design/) - Move beyond human-centered design. We must design for the collective, for society.
