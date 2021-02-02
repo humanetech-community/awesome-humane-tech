@@ -205,6 +205,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Diaspora](https://diasporafoundation.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - [friendica](https://friendi.ca/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/friendica/friendica) - A decentralized social communications platform.
 - [GNU Social](https://gnusocial.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://notabug.org/diogo/gnu-social) - The free/libre software social networking platform.
+- [Lemmy](https://join.lemmy.ml/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/LemmyNet/lemmy) - A link aggregator / Reddit clone for the fediverse.
 
 ## Social networks
 
