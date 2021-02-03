@@ -150,6 +150,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [TrackMeNot](https://trackmenot.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/vtoubiana/TrackMeNot) - Browser extension that hides your real search-queries by adding noise and obfuscation.
 - [Deda](https://dfd.inf.tu-dresden.de/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/dfd-tud/deda) - Printer tracking Dots Extraction, Decoding and Anonymisation toolkit.
 - [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/apparition47/MailTrackerBlocker) - An email tracker, read receipt and spy pixel blocker plugin for macOS Apple Mail.
+- [Warden](https://gitlab.com/AuroraOSS/AppWarden) - App management utility for Android that detects and disables trackers and loggers.
 
 ## Consent
 
