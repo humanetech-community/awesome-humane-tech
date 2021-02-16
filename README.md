@@ -251,7 +251,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 
 ## Geolocation
 
-- [OpenStreetMap](https://www.openstreetmap.org) - A map of the world, created by people like you and free to use under an open licence.
+- [OpenStreetMap](https://www.openstreetmap.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/openstreetmap/openstreetmap-website) - A map of the world, created by people like you and free to use under an open licence.
 - [OSM StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android to allow users to contribute to OpenStreetMap with ease.
 - [Mozilla Ichnaea](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/ichnaea) - API to get geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Mozilla Stumbler](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location db.
