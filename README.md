@@ -101,7 +101,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - Browser extension to help identify what sensitive information (PII) is shared / leaked to 3rd-parties.
 - [Webbkoll](https://webbkoll.dataskydd.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy.
 - [PrivacyScore](https://privacyscore.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/PrivacyScore/PrivacyScore) - A web privacy measurement platform.
-- [ghacks user.js](https://github.com/ghacksuserjs/ghacks-user.js) - A user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
+- [arkenfox user.js](https://github.com/arkenfox/user.js) - A user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
 - [user.js](https://github.com/pyllyukko/user.js) - Configuration for Firefox to harden browser settings and make it more secure.
 - [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - Browser extension that emulates Content Delivery Networks to improve your online privacy.
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - Browser extension allows posing as another browser by changing User-Agent header.
@@ -238,6 +238,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Teddit](https://teddit.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teddit/teddit) - Alternative Reddit front-end focused on privacy.
 - [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/spikecodes/libreddit) - Private Reddit front-end written in Rust.
 - [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot that automatically mirrors YouTube channels to PeerTube channels.
+- [Watomatic](https://github.com/adeekshith/watomatic) - Auto reply for WhatsApp so you can stop using it.
 
 ## Freedom
 
@@ -251,7 +252,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 
 ## Geolocation
 
-- [OpenStreetMap](https://www.openstreetmap.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/openstreetmap/openstreetmap-website) - A map of the world, created by people like you and free to use under an open licence. Note that [different map styles](https://wiki.openstreetmap.org/wiki/Browsing#Layers) at openstreetmap.org are showing just small part of all collected data.
+- [OpenStreetMap](https://www.openstreetmap.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/openstreetmap/openstreetmap-website) - A crowdsourced map of the world with many layers, free to use under an open licence.
 - [OSM StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android to allow users to contribute to OpenStreetMap with ease.
 - [Mozilla Ichnaea](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/ichnaea) - API to get geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/QwantResearch/qwantmaps/) - A map application, based on OpenStreetMap, that respects your privacy.
