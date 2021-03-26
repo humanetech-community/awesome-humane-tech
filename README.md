@@ -94,7 +94,6 @@ Security is an important aspect of humane technology. It is also a vast field we
 
 ## Privacy
 
-- [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://databunker.org/) - Databunker is a network based GDPR compliant secure storage for personal data. It is an address book on steroids.
 - [privacytools.io](https://privacytools.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/privacytoolsIO/privacytools.io) - Knowledge and tools to protect your privacy against global mass surveillance.
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
@@ -126,6 +125,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) - A browser extension that emulates Content Delivery Networks to improve your online privacy.
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) - Debloat non-rooted smartphones, to improve privacy, security and battery life.
 - [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/celzero/rethink-app) - DNS over HTTPS and Tor, DNSCrypt client, firewall and connection tracker for Android.
+- [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://databunker.org/) - Databunker is a network based GDPR compliant secure storage for personal data. It is an address book on steroids.
 
 ## Tracking
 
