@@ -346,7 +346,7 @@ Deaf and Hard of Hearing accessibility resources:
 - [Dogsheep](https://dogsheep.github.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/dogsheep) - Export data from big companies (e.g. Google, Twitter) into Sqlite for personal analytics.
 - [Tracking Exposed](https://tracking.exposed/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tracking-exposed) - Research, browser addons on tracking, profiling, and influence of algorithms.
 - [Social Media Awareness Toolkit](https://www.smat-app.com/about) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smat-project) - An open and intuitive way to scrutinize what’s trending on internet platforms.
-- [Deletion Day](https://deletionday.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/deletionday/site) – A holiday to raise awareness of the myriad privacy concerns of today’s Internet. Deletion Day takes place on April 4th every year.
+- [Deletion Day](https://deletionday.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/deletionday/site) - A holiday on April 4th focused on the privacy concerns of today’s Internet.
 
 ## Censorship
 
