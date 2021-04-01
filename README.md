@@ -375,7 +375,7 @@ This section is for inactive projects that are nonetheless still of interest reg
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) - A curated list of free as in freedom software.
 - [Awesome Ad-Free](https://github.com/johnjago/awesome-ad-free) - A curated list of ad-free alternatives to popular services on the web.
 - [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives) - A curated list of (F)OSS / Federated alternatives to proprietary software and services.
-- [Awesome Sustainable Technology](https://github.com/protontypes/awesome-sustainable-technology) - Projects sustaining stable climate, energy supply and natural resources.
+- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - Projects preserving stable climate, energy supply and natural resources.
 
 Also check out these sites for great alternatives to the monopolistic, privacy-invading software you may now be using:
 
