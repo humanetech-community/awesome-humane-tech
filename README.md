@@ -368,7 +368,7 @@ This section is for inactive projects that are nonetheless still of interest reg
 ## Related awesomeness
 
 - [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
-- [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
+- [Awesome Decentralized](https://github.com/croqaz/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
 - [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A curated list of peer-to-peer resources.
 - [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) - A curated list of awesome digital tools for activism.
 - [Awesome Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - A curated list for building more compassionate engineering cultures.
