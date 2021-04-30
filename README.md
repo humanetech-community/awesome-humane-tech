@@ -247,6 +247,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 
 - [Lingva Translate](https://lingva.ml/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/TheDavidDelta/lingva-translate) - An alternative front-end for Google Translate.
 - [LibreTranslate](https://libretranslate.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/uav4geo/LibreTranslate) - A self-hosted Machine Translation API, no limits, no ties to proprietary services.
+- [Argos Translate](https://www.argosopentech.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/argosopentech/argos-translate) - Open source neural machine translation.
 
 ## Freedom
 
