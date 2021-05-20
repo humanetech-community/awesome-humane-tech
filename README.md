@@ -128,6 +128,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/celzero/rethink-app) - DNS over HTTPS and Tor, DNSCrypt client, firewall and connection tracker for Android.
 - [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/securitybunker/databunker) - Databunker is a network-based, self-hosted, GDPR compliant, secure storage for personal data.
 - [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/objective-see/LuLu) - A firewall that aims to block unknown outgoing connections, protecting your privacy and your Mac.
+- [pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Block non-consensual telemetry Google and Apple are collecting using pihole.
 
 ## Tracking
 
