@@ -249,6 +249,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [LibreTranslate](https://libretranslate.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/uav4geo/LibreTranslate) - A self-hosted Machine Translation API, no limits, no ties to proprietary services.
 - [Argos Translate](https://www.argosopentech.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/argosopentech/argos-translate) - Open source neural machine translation.
 - [gtranslate](https://git.sr.ht/~yerinalexey/gtranslate) - Front-end for Google Translate that doesn't track you and works without JavaScript.
+- [SimplyTranslate](https://git.sr.ht/~metalune/simplytranslate_web) - Simple front-end for SimplyTranslate, a facade to multiple search engines.
 
 ## Freedom
 
