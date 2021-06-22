@@ -196,7 +196,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [All In One Customized Adblock List](https://hl2guide.github.io/All-in-One-Customized-Adblock-List/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - Adblock list that thoroughly blocks trackers, ads, unwanted cookies.
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying and distracting web elements from many websites.
 - [Wiper](https://github.com/davidahmed/wiper) - Firefox extension that strips Google search results based on a blocklist you define.
-- [EasyList](https://easylist.to/) - Sets of rules that automatically remove unwanted content from the internet.
+- [EasyList](https://easylist.to/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/easylist/easylist) - Sets of rules that automatically remove unwanted content from the internet.
 
 ## Fediverse
 
