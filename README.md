@@ -324,6 +324,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Leechblock NG](https://www.proginosko.com/leechblock/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/proginosko/LeechBlockNG/) - A simple productivity tool designed to block time-wasting sites at the specified times.
 - [Introvert](https://iamintrovert.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/IamIntrovert/Introvert) - Audiovisual experience encouraging to do, to focus, to relax while it generates a unique artwork.
 - [Slim Launcher](https://github.com/sduduzog/slim-launcher) - Replaces Android home screen with a minimalist version and a maximum of seven apps.
+- [Breathing](https://github.com/SeaDve/Breathing): Exercise your breathing.
 
 ## Happiness
 
