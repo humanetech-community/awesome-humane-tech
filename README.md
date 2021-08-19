@@ -129,7 +129,8 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/securitybunker/databunker) - Databunker is a network-based, self-hosted, GDPR compliant, secure storage for personal data.
 - [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/objective-see/LuLu) - A firewall that aims to block unknown outgoing connections, protecting your privacy and your Mac.
 - [pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Block non-consensual telemetry Google and Apple are collecting using pihole.
-- [Silkky.Cloud](https://silkky.cloud) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/TheSilkky/silkky.cloud/) - Privacy respecting, decentralized web applications to protect you against global surveillance.
+- [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/IngoZenz/personaldnsfilter) - A DNS filter proxy to filter unwished hosts based on a host list.
+- [Silkky.Cloud](https://www.silkky.cloud) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/silkkycloud) - Infrastructure, resources and guides aimed at helping you to protect your privacy against global surveillance.
 
 ## Tracking
 
@@ -196,7 +197,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [All In One Customized Adblock List](https://hl2guide.github.io/All-in-One-Customized-Adblock-List/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - Adblock list that thoroughly blocks trackers, ads, unwanted cookies.
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying and distracting web elements from many websites.
 - [Wiper](https://github.com/davidahmed/wiper) - Firefox extension that strips Google search results based on a blocklist you define.
-- [EasyList](https://easylist.to/) - Sets of rules that automatically remove unwanted content from the internet.
+- [EasyList](https://easylist.to/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/easylist/easylist) - Sets of rules that automatically remove unwanted content from the internet.
 
 ## Fediverse
 
@@ -283,6 +284,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Home Assistant](https://www.home-assistant.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/home-assistant/home-assistant) - Home automation that puts local control and privacy first.
 - [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/Freeyourgadget/Gadgetbridge) - Replace gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus, etc).
 - [Gladys Assistant](https://gladysassistant.com/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/gladysassistant/gladys) - A privacy-first, open-source home assistant.
+- [OpenRGB](https://openrgb.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software.
 
 ## Gamification
 
@@ -323,6 +325,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Leechblock NG](https://www.proginosko.com/leechblock/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/proginosko/LeechBlockNG/) - A simple productivity tool designed to block time-wasting sites at the specified times.
 - [Introvert](https://iamintrovert.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/IamIntrovert/Introvert) - Audiovisual experience encouraging to do, to focus, to relax while it generates a unique artwork.
 - [Slim Launcher](https://github.com/sduduzog/slim-launcher) - Replaces Android home screen with a minimalist version and a maximum of seven apps.
+- [Breathing](https://github.com/SeaDve/Breathing): Exercise your breathing.
 
 ## Happiness
 
@@ -364,7 +367,8 @@ Deaf and Hard of Hearing accessibility resources:
 ## Censorship
 
 - [OONI Probe](https://ooni.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (first read [risks](https://ooni.io/about/risks/)).
-- [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - An anti-censorship utility designed to bypass ISPs that block access to certain websites. 
+- [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - An anti-censorship utility designed to bypass ISPs that block access to certain websites.
+- [Wikiless](https://wikiless.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/orenom/Wikiless)  - Alternative Wikipedia front-end focused on privacy and anti-censorship.
 
 ## Unmaintained
 
