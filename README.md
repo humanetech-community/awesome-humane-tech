@@ -309,7 +309,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [dijo](https://github.com/NerdyPepper/dijo) - A scriptable habit tracker that runs in your terminal.
 - [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/goldencheetah/goldencheetah) - Performance software for Cyclists, Runners and Triathletes that reads from many devices.
 - [gammastep](https://gitlab.com/chinstrap/gammastep) - Linux tool to adjust the color temperature of your screen to your surroundings.
-- [MediLog<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/toz12/medilog) - Android App to easily capture medical data such as Blood Pressure and Body Weight as well as a simple Diary.
+- [MediLog](https://gitlab.com/toz12/medilog) - Android app to capture medical data, e.g. Blood Pressure and Weight as well as a simple Diary.
 
 ## Mindfulness
 
