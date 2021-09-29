@@ -337,7 +337,6 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [AlexJS](https://alexjs.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [Buster](https://github.com/dessant/buster) - Browser extension and Captcha Solver for Humans.
 - [The A11Y Project](https://a11yproject.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/a11yproject/a11yproject.com) - A community-driven effort to make web accessibility easier.
-- [IETF Inclusive Language](https://tools.ietf.org/html/draft-knodel-terminology-04) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ietf/terminology) - Terminology for inclusive language conventions (latest version on github).
 
 Deaf and Hard of Hearing accessibility resources:
 
