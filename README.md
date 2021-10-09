@@ -34,7 +34,6 @@
 - [Unmaintained](#unmaintained)
 - [Related awesomeness](#related-awesomeness)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About this list
 
@@ -404,10 +403,4 @@ Also check out these sites for great alternatives to the monopolistic, privacy-i
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [aschrijver](https://github.com/aschrijver) (the maintainer) and other contributors have waived all copyright and related or neighboring rights to this work.
+This list is maintained by [Arnold Schrijver](https://github.com/aschrijver). Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
