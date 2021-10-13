@@ -243,6 +243,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/spikecodes/libreddit) - Private Reddit front-end written in Rust.
 - [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot that automatically mirrors YouTube channels to PeerTube channels.
 - [Watomatic](https://github.com/adeekshith/watomatic) - Auto reply for WhatsApp so you can stop using it.
+- [Scribe](https://scribe.rip/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://git.sr.ht/~edwardloveall/scribe) - Privacy-respecting and minimal alternative front end for Medium.com.
 
 ## Translation
 
