@@ -92,7 +92,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 
 ## Privacy
 
-- [privacytools.io](https://privacytools.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/privacytoolsIO/privacytools.io) - Knowledge and tools to protect your privacy against global mass surveillance.
+- [Privacy Guides](https://privacyguides.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/privacyguides/privacyguides.org) - Knowledge and tools to protect your privacy against global mass surveillance.
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium without Google integration, enhancing privacy, control, transparency
 - [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/signalapp) - Signal is a messaging app for simple private communication with friends.
