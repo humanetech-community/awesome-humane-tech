@@ -187,6 +187,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 
 ## Blocklists
 
+- [Black Mirror](https://github.com/T145/black-mirror) - Automatically compiled and maintained malicious domain & IP blacklist.
 - [Hosts](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 - [Blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
 - [Referrer Spam List](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/matomo-org/referrer-spam-list) - Community-contributed blocklist of referrer spammers.
