@@ -127,6 +127,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/objective-see/LuLu) - A firewall that aims to block unknown outgoing connections, protecting your privacy and your Mac.
 - [pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Block non-consensual telemetry Google and Apple are collecting using pihole.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/IngoZenz/personaldnsfilter) - A DNS filter proxy to filter unwished hosts based on a host list.
+- [Peergos](https://peergos.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Peergos) - Provides a secure and private space online where you can store, share and view your photos, videos, music and documents. Also includes a calendar, news feed, task lists, chat and email client. Can be self-hosted.
 
 ## Tracking
 
