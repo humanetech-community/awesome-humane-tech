@@ -67,7 +67,7 @@ Humane design is a subset of humane technology and an upcoming field in informat
 ## Ethics
 
 - [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) - Machine Learning and Data Science discrimination, bias and ethics.
-- [WikiTruth](https://wikitruth.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
+- [WikiTruth](https://wikitruth.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - An ethics oath for programmers, comparable to the Hippocratic Oath.
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://source.ind.ie/site/2017) - The Maslow's Hierarchy of Needs for sites and projects practicing ethical design.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
