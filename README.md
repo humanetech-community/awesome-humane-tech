@@ -400,6 +400,7 @@ This section is for inactive projects that are nonetheless still of interest reg
 - [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives) - A curated list of (F)OSS / Federated alternatives to proprietary software and services.
 - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - Projects preserving stable climate, energy supply and natural resources.
 - [Awesome Sustainable VPS](https://codeberg.org/jonatasbaldin/awesome-sustainable-vps) - A list of sustainable VPS (Virtual Private Servers) providers.
+- [Awesome Alternative Frontends](https://github.com/digitalblossom/alternative-frontends) - A list of alternative privacy-respecting frontends for popular services.
 
 Also check out these sites for great alternatives to the monopolistic, privacy-invading software you may now be using:
 
