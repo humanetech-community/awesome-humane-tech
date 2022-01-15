@@ -199,6 +199,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [Wiper](https://github.com/davidahmed/wiper) - Firefox extension that strips Google search results based on a blocklist you define.
 - [EasyList](https://easylist.to/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/easylist/easylist) - Sets of rules that automatically remove unwanted content from the internet.
 - [Black Mirror](https://github.com/T145/black-mirror) - Automatically compiled and maintained malicious domain & IP blacklist.
+- [uBlacklist](https://iorate.github.io/ublacklist/docs) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/iorate/uBlacklist) - Browser extension to block specific sites from appearing in search engine results. 
 
 ## Fediverse
 
