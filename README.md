@@ -249,6 +249,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Watomatic](https://github.com/adeekshith/watomatic) - Auto reply for WhatsApp so you can stop using it.
 - [Scribe](https://scribe.rip/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://git.sr.ht/~edwardloveall/scribe) - Privacy-respecting and minimal alternative front end for Medium.com.
 - [Piped](https://piped.kavin.rocks) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [Fedishare](https://addons.mozilla.org/en-US/firefox/addon/fedishare-addon/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mugcake/fedishare) - Firefox addon to share the current tab on the fediverse.
 
 ## Translation
 
