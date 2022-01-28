@@ -128,6 +128,8 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - Block non-consensual telemetry Google and Apple are collecting using pihole.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/IngoZenz/personaldnsfilter) - A DNS filter proxy to filter unwished hosts based on a host list.
 - [JShelter](https://jshelter.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/pagure.svg?sanitize=true" width="16"/>](https://pagure.io/JS-Shield/JS-Shield) - An anti-malware Firefox extension to mitigate potential threats from JavaScript.
+- [LibRedirect](https://libredirect.github.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/libredirect/libredirect) - A simple extension that redirects to alternative privacy-friendly frontends.
+
 
 ## Tracking
 
