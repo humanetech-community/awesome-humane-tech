@@ -129,6 +129,7 @@ Security is an important aspect of humane technology. It is also a vast field we
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/IngoZenz/personaldnsfilter) - A DNS filter proxy to filter unwished hosts based on a host list.
 - [JShelter](https://jshelter.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/pagure.svg?sanitize=true" width="16"/>](https://pagure.io/JS-Shield/JS-Shield) - An anti-malware Firefox extension to mitigate potential threats from JavaScript.
 
+
 ## Tracking
 
 - [Privacy Badger](https://www.eff.org/privacybadger) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/EFForg/privacybadger) - Privacy Badger by Electronic Frontier Foundation blocks spying ads and invisible trackers.
@@ -250,6 +251,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Scribe](https://scribe.rip/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://git.sr.ht/~edwardloveall/scribe) - Privacy-respecting and minimal alternative front end for Medium.com.
 - [Piped](https://piped.kavin.rocks) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [Fedishare](https://addons.mozilla.org/en-US/firefox/addon/fedishare-addon/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mugcake/fedishare) - Firefox addon to share the current tab on the fediverse.
+- [LibRedirect](https://libredirect.github.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/libredirect/libredirect) - A simple extension that redirects to alternative privacy-friendly frontends.
 
 ## Translation
 
