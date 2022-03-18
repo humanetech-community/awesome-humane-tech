@@ -340,7 +340,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Introvert](https://iamintrovert.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/IamIntrovert/Introvert) - Audiovisual experience encouraging to do, to focus, to relax while it generates a unique artwork.
 - [Slim Launcher](https://github.com/sduduzog/slim-launcher) - Replaces Android home screen with a minimalist version and a maximum of seven apps.
 - [Breathing](https://github.com/SeaDve/Breathing): Exercise your breathing.
-- [Mindful Google™](https://chrome.google.com/webstore/detail/mindful-google/majeighpkbfmjamjiegocmiemagfanle): [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tunjos/Mindful-Google) Search Google Mindfully...Disables Autocomplete and other distracting elements on Google's pages.
+- [Mindful Google™](https://github.com/tunjos/Mindful-Google) - Disables Autocomplete and other distracting elements on Google's pages.
 
 ## Happiness
 
