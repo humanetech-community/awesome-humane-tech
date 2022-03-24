@@ -2,8 +2,10 @@
 
 - [ ] I have referred the list and did not find this submission already added.
 - [ ] I have read the contribution guidelines [here](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md)
-- [ ] I have read the code of conduct and I agree to adhere to the same [here](https://github.com/humanetech-community/awesome-humane-tech/blob/main/code-of-conduct.md)
-- [ ] I have added my entry as the latest (last dotted point) under a topic, not at the beginning, not interleaved. 
+- [ ] I have added my entry as the latest (last dotted point) under a topic, not at the beginning, not interleaved.
+- [ ] I have verified that my entry fits a single line in the list (based on the maximum column width Github uses).
+
+<!-- This list is already very long and therefore we require entries to fit on a single line, which also looks more visually appealing. If your entry doesn't fit you best shorten the description text. When on mobile or other small screen layouts this isn't easy to check. In that case just take other text lengths as example. -->
 
 If your suggested entry is code project:
 
