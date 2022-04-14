@@ -326,6 +326,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/goldencheetah/goldencheetah) - Performance software for Cyclists, Runners and Triathletes that reads from many devices.
 - [gammastep](https://gitlab.com/chinstrap/gammastep) - Linux tool to adjust the color temperature of your screen to your surroundings.
 - [MediLog](https://gitlab.com/toz12/medilog) - Android app to capture medical data, e.g. Blood Pressure and Weight as well as a simple Diary.
+- [Energize <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/epinez/Energize) - Android app for tracking your food and nutrition easily and fast.
 
 ## Mindfulness
 
