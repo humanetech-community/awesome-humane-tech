@@ -231,7 +231,6 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/snarfed/granary) - The social web translator that breaks silo's by converting data between social networks.
 - [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/neocities/neocities) - Social network that brings back the lost individual creativity of the web.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium script to delete all of your Facebook wall posts.
-- [Instalution](https://github.com/groovenectar/instalution) - Aims to be a revolutionary solution to Instagram.
 - [Minimal Twitter](https://www.wang.sh/minimal-twitter) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/thomaswangio/minimal-twitter) - Minimal Theme for the new Twitter UI.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/coralproject/talk) - An open-source commenting platform focused on better conversation.
 - [Invidious](https://invidious.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/iv-org/invidious) - An alternative front-end to YouTube without Ads.
@@ -260,6 +259,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [LibMedium](https://libmedium.batsense.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/realaravinth/libmedium) - Privacy-focused, high-performance front end for Medium.com written in Rust.
 - [SponsorBlock](https://sponsor.ajay.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ajayyy/SponsorBlock) - Browser extension that allows you to skip YouTube video sponsors.
 - [Quetre](https://quetre.herokuapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/zyachel/quetre/) - A libre front-end for Quora.
+- [Instalution](https://github.com/groovenectar/instalution) - Aims to be a revolutionary solution to Instagram.
 
 ## Translation
 
