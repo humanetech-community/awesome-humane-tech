@@ -423,7 +423,6 @@ Also check out these sites for great alternatives to the monopolistic, privacy-i
 
 - [degoogle](https://degoogle.jmoore.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
-- [ReverseEagle-Developers](https://developers.reverseeagle.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://forge.tedomum.net/ReverseEagle/developers) - Privacy-conscious, ethical and safer alternatives to software for developers.
 - [ethical.net](https://ethical.net/resources/) - Ethical alternatives & resources.
 - [JustPrivacy](https://justprivacy.org/google-alternatives/) - An in-depth list of alternatives to Google and its products.
 - [Tromjaro Apps](https://www.tromjaro.com/apps/) - A curated collection of trade-free applications. 
